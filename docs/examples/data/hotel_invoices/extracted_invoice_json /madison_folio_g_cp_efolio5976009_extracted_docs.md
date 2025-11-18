@@ -1,0 +1,162 @@
+# File Documentation: madison_folio_g_cp_efolio5976009_extracted.json
+
+## File Metadata
+- **Path**: `examples/data/hotel_invoices/extracted_invoice_json /madison_folio_g_cp_efolio5976009_extracted.json`
+- **Size**: 3,733 bytes (3,714 characters)
+- **Lines**: 114
+- **Extension**: `.json`
+- **Classification**: text
+
+---
+
+## Original Source
+
+```json
+[
+    {
+        "Hotel Information": {
+            "Name": "MADISON Hotel GmbH",
+            "Address": "Schaartorweg 4, 20459 Hamburg, Germany",
+            "Contact": {
+                "Phone": "+49.40.37 666-0",
+                "Fax": "+49.40.37 666-137",
+                "Email": "info@madisonhotel.de",
+                "Website": "madisonhotel.de"
+            },
+            "Geschäftsführer": "Marlies Head, Thomas Kleinertz",
+            "AG Hamburg HRB": "47281",
+            "VAT": "DE118 696 407",
+            "Bank": {
+                "Name": "HypoVereinsbank",
+                "IBAN": "DE40 2003 0000 0003 6027 11",
+                "BIC": "HYVEDEMM300"
+            }
+        },
+        "Guest Information": {
+            "Company": "APMeister Consulting GmbH",
+            "Address": "Friedrichstr. 123, 10117 Berlin",
+            "Guest Name": "Herr Jens Walter"
+        },
+        "Invoice Information": {
+            "Rechnungs-Nr.": "508189",
+            "Datum": "09.08.19",
+            "Zimmer": "438",
+            "Anreise": "04.08.19",
+            "Abreise": "09.08.19",
+            "Seite": "1 of 1",
+            "Benutzer ID": "WM"
+        },
+        "Charges": [
+            {
+                "Datum": "04.08.19",
+                "Beschreibung": "Übernachtung exklusive Frühstück*",
+                "Belastung": 110.0,
+                "Entlastung": null
+            },
+            {
+                "Datum": "05.08.19",
+                "Beschreibung": "Übernachtung exklusive Frühstück*",
+                "Belastung": 110.0,
+                "Entlastung": null
+            },
+            {
+                "Datum": "06.08.19",
+                "Beschreibung": "Übernachtung exklusive Frühstück*",
+                "Belastung": 110.0,
+                "Entlastung": null
+            },
+            {
+                "Datum": "07.08.19",
+                "Beschreibung": "Übernachtung exklusive Frühstück*",
+                "Belastung": 110.0,
+                "Entlastung": null
+            },
+            {
+                "Datum": "08.08.19",
+                "Beschreibung": "Übernachtung exklusive Frühstück*",
+                "Belastung": 110.0,
+                "Entlastung": null
+            },
+            {
+                "Datum": "09.08.19",
+                "Beschreibung": "Frühstück **",
+                "Belastung": 20.0,
+                "Entlastung": null
+            },
+            {
+                "Datum": "09.08.19",
+                "Beschreibung": "Mastercard IFC",
+                "Belastung": null,
+                "Entlastung": 570.0
+            }
+        ],
+        "Summary": {
+            "Total Netto EUR": 530.83,
+            "Total MwSt. EUR": 39.17,
+            "Total Brutto EUR": 570.0,
+            "MwSt. 19%": {
+                "Netto EUR": 16.81,
+                "MwSt. EUR": 3.19,
+                "Brutto EUR": 20.0
+            },
+            "MwSt. 7%": {
+                "Netto EUR": 514.02,
+                "MwSt. EUR": 35.98,
+                "Brutto EUR": 550.0
+            },
+            "Saldo": {
+                "Amount": 0.0,
+                "Currency": "EUR"
+            }
+        },
+        "Financial Information": {
+            "Finanzamt": "Hamburg Mitte",
+            "Steuernummer": "4874/101/0228"
+        },
+        "Credit Card Information": {
+            "Vertragspartner-ID": "154654932",
+            "Kartenfolgenummer": "XXXXXX",
+            "Kreditkartennummer": "XXXXXXXXXXXX5052",
+            "Verfallsdatum": "XXXX",
+            "Terminal ID": "52964893",
+            "Beleg Nr.": "93935",
+            "Transaktionsbetrag": "570.00",
+            "Genehmigter Betrag": "570.00",
+            "Genehmigungscode": "165942"
+        }
+    }
+]
+```
+
+---
+
+## High-Level Overview
+
+This is a configuration/data file.
+
+---
+
+## Detailed Walkthrough
+
+---
+
+## Performance & Security Notes
+
+- Verify that sensitive data is not committed to version control
+- Validate configuration values
+
+---
+
+## Related Files
+
+See the folder index for related files in the same directory.
+
+---
+
+## Tests / How to Run
+
+Refer to the project README for instructions on how to use this file.
+
+---
+
+*Documentation generated for `examples/data/hotel_invoices/extracted_invoice_json /madison_folio_g_cp_efolio5976009_extracted.json`*

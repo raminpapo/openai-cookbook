@@ -1,0 +1,141 @@
+# File Documentation: madison-502875_extracted.json
+
+## File Metadata
+- **Path**: `examples/data/hotel_invoices/extracted_invoice_json /madison-502875_extracted.json`
+- **Size**: 3,073 bytes (3,059 characters)
+- **Lines**: 93
+- **Extension**: `.json`
+- **Classification**: text
+
+---
+
+## Original Source
+
+```json
+[
+    {
+        "Hotel Information": {
+            "Name": "MADISON Hotel GmbH",
+            "Address": "Schaarsteinweg 4, 20459 Hamburg",
+            "Contact": {
+                "Phone": "+49.40.37 666-0",
+                "Fax": "+49.40.37 666-137",
+                "Email": "info@madisonhotel.de",
+                "Website": "madisonhotel.de"
+            },
+            "Geschäftsführer": "Marlies Head, Thomas Kleinertz",
+            "AG Hamburg HRB": "47881",
+            "VAT ID": "DE118 690 407",
+            "Bank": {
+                "Name": "HypoVereinsbank",
+                "BLZ": "200 300 00",
+                "Konto-Nr": "360 27 11",
+                "IBAN": "DE49 2003 0000 0036 0271 11",
+                "BIC": "HYVEDEMM300"
+            }
+        },
+        "Guest Information": {
+            "Name": "Herr Jens Walter",
+            "Company": "APIMeister Consulting GmbH",
+            "Address": "Friedrichstr. 123, 10117 Berlin"
+        },
+        "Invoice Information": {
+            "Rechnungs-Nr.": "502875",
+            "Datum": "14.06.19",
+            "Zimmer": "426",
+            "Anreise": "10.06.19",
+            "Abreise": "14.06.19",
+            "Seite": "1 of 1",
+            "Benutzer ID": "BD"
+        },
+        "Charges": [
+            {
+                "Datum": "10.06.19",
+                "Beschreibung": "Übernachtung exklusive Frühstück",
+                "Belastung": "110.00",
+                "Entlastung": null
+            },
+            {
+                "Datum": "11.06.19",
+                "Beschreibung": "Übernachtung exklusive Frühstück",
+                "Belastung": "110.00",
+                "Entlastung": null
+            },
+            {
+                "Datum": "12.06.19",
+                "Beschreibung": "Übernachtung exklusive Frühstück",
+                "Belastung": "110.00",
+                "Entlastung": null
+            },
+            {
+                "Datum": "13.06.19",
+                "Beschreibung": "Übernachtung exklusive Frühstück",
+                "Belastung": "110.00",
+                "Entlastung": null
+            },
+            {
+                "Datum": "14.06.19",
+                "Beschreibung": "Mastercard IFC",
+                "Belastung": "440.00",
+                "Entlastung": null
+            }
+        ],
+        "Total": {
+            "Netto EUR": "411.21",
+            "MwSt. EUR": "28.79",
+            "Brutto EUR": "440.00",
+            "Saldo": "0.00 EUR"
+        },
+        "Umsatzsteuer Detail": {
+            "Total inkl. MwSt.": "411.21",
+            "MwSt. 7%": "28.79",
+            "Finanzamt": "Hamburg Mitte",
+            "Steuernummer": "47/841/01228"
+        },
+        "Kreditkartendetails": {
+            "Vertragspartnernummer": "15694832",
+            "Beleg Nr.": "27142",
+            "Kartenfolgenummer": "XXXXXXXXXXXX0502",
+            "Transaktionsbetrag": "440.00",
+            "Verfallsdatum": "XX/XX",
+            "Genehmigter Betrag": "440.00",
+            "Terminal ID": "89264892",
+            "Genehmigungscode": "366417"
+        }
+    },
+    {}
+]
+```
+
+---
+
+## High-Level Overview
+
+This is a configuration/data file.
+
+---
+
+## Detailed Walkthrough
+
+---
+
+## Performance & Security Notes
+
+- Verify that sensitive data is not committed to version control
+- Validate configuration values
+
+---
+
+## Related Files
+
+See the folder index for related files in the same directory.
+
+---
+
+## Tests / How to Run
+
+Refer to the project README for instructions on how to use this file.
+
+---
+
+*Documentation generated for `examples/data/hotel_invoices/extracted_invoice_json /madison-502875_extracted.json`*

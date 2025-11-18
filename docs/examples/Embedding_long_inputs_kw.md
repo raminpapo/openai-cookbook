@@ -1,0 +1,406 @@
+# Keywords Index: Embedding_long_inputs.ipynb
+
+## File Information
+- **Path**: `examples/Embedding_long_inputs.ipynb`
+- **Total Keywords**: 325
+
+---
+
+## Keywords (A-Z)
+
+### A
+
+- **ABC** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **ABCDEFG** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **AGI** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **API** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **Another** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **about** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **accepts** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **according** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **again** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **allowed** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **api_key** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **append** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **applied** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **approach** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **approaches** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **appropriate** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **are** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **attachments** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **average** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **average_embedding_vector** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **averaging** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **avoid** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **axis** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+
+### B
+
+- **BadRequestError** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **Batch** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **Because** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **Below** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **back** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **batch** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **batched** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **because** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **before** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **beta** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **both** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **boundaries** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **breaks** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **but** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+
+### C
+
+- **Chunking** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **Clearly** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **can** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **cannot** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **careful** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **cases** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **causes** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **cell_type** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **cells** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **check** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **chunk** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **chunk_embeddings** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **chunk_length** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **chunk_lens** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **chunked_tokens** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **chunking** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **chunks** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **chunks_embedding_vectors** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **chunks_iterator** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **cl100k_base** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **clear** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **client** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **code** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **codemirror_mode** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **com** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **combine** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **completion** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **context** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **convert** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **cookbook** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **count** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **create** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+
+### D
+
+- **DEF** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **data** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **define** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **demonstrate** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **describe** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **dimensional** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **discarding** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **display_name** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **divide** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **docs** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **drawback** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+
+### E
+
+- **EMBEDDING_CTX_LENGTH** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **EMBEDDING_ENCODING** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **EMBEDDING_MODEL** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **Embedding** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **Embeddings** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **Error** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **each** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **either** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **embed** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **embedding** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **embeddings** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **encode** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **encodes** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **encoding** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **encoding_name** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **env** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **environ** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **error** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **errors** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **even** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **example** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **exceeds** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **execute_result** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **execution_count** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+
+### F
+
+- **Finally** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **First** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **faced** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **file_extension** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **first** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **flag** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **form** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **from** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **function** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+
+### G
+
+- **Guide** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **get** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **get_embedding** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **get_encoding** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **given** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **gives** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **going** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **guides** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+
+### H
+
+- **How** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **How_to_count_tokens_with_tiktoken** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **handle** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **handles** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **handling** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **has** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **hash** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **have** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **help** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **how** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **however** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **html** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **https** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+
+### I
+
+- **ideas** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **individually** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **input** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **inputs** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **interpreter** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **into** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **invalid** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **invalid_request_error** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **ipykernel** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **ipynb** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **ipython** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **ipython3** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **islice** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **iter** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **iterable** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **itertools** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+
+### K
+
+- **kernelspec** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **key** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+
+### L
+
+- **language** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **language_info** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **large** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **last** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **learn** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **least** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **len** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **len_safe_get_embedding** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **length** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **let** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **library** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **limit** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **linalg** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **list** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **long** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **long_text** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **longer** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+
+### M
+
+- **Model** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **main** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **make** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **markdown** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **max** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **max_tokens** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **maximum** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **may** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **meaning** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **measured** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **message** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **metadata** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **might** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **mimetype** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **min** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **model** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **models** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **more** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **must** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+
+### N
+
+- **Now** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **name** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **nbconvert_exporter** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **nbformat** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **nbformat_minor** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **need** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **norm** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **normalizes** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **notebook** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **now** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **number** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **numpy** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+
+### O
+
+- **OPENAI_API_KEY** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **Once** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **OpenAI** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **Our** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **one** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **openai** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **org** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **os** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **other** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **our** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **out** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **output_type** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **outputs** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **over** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **own** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+
+### P
+
+- **Please** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **Python** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **paragraph** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **param** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **particularly** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **plain** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **potentially** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **preserve** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **print** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **programmatically** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **prompt** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **provide** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **pygments_lexer** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **python** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **python3** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+
+### R
+
+- **recipes** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **reduce** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **relevant** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **request** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **requested** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **requests** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **retry** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **retry_if_not_exception_type** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+
+### S
+
+- **Setting** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **safely** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **same** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **see** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **select** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **sense** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **sentence** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **separately** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **sequence** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **set** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **shorter** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **shows** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **simplest** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **simply** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **single** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **size** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **small** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **solution** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **some** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **source** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **split** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **stdout** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **still** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **stop** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **stop_after_attempt** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **stream** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **string** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **such** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **sure** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+
+### T
+
+- **Then** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **Though** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **Truncate** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **Truncating** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **take** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **tasks** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **tenacity** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **text** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **text_or_tokens** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **texts** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **than** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **that** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **the** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **them** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **then** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **there** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **these** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **tiktoken** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **to** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **tokenization** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **tokenize** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **tokens** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **tolist** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **truncate** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **truncate_text_tokens** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **truncated** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **truncating** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **truncation** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **tuple** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **tuples** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **type** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+
+### U
+
+- **unfamiliar** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **unmodified** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **use** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **using** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+
+### V
+
+- **ValueError** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **var** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **varies** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **vector** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **vectors** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **version** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **vscode** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+
+### W
+
+- **wait** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **wait_random_exponential** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **want** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **way** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **weighted** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **weights** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **what** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **when** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **will** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **without** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **works** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **write** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+
+### Y
+
+- **Yet** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **you** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+- **your** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+
+### _
+
+- **_tokens_** - See [Embedding_long_inputs_docs.md](Embedding_long_inputs_docs.md)
+
+---
+

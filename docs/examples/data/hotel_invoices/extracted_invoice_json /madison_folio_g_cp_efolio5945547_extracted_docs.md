@@ -1,0 +1,153 @@
+# File Documentation: madison_folio_g_cp_efolio5945547_extracted.json
+
+## File Metadata
+- **Path**: `examples/data/hotel_invoices/extracted_invoice_json /madison_folio_g_cp_efolio5945547_extracted.json`
+- **Size**: 3,535 bytes (3,517 characters)
+- **Lines**: 105
+- **Extension**: `.json`
+- **Classification**: text
+
+---
+
+## Original Source
+
+```json
+[
+    {
+        "Hotel Information": {
+            "Name": "MADISON Hotel GmbH",
+            "Address": "Schaartestraße 4, 20459 Hamburg",
+            "Contact": {
+                "Phone": "+49.40.37 666-0",
+                "Fax": "+49.40.37 666-137",
+                "Email": "info@madisonhotel.de",
+                "Website": "madisonhotel.de"
+            },
+            "Geschäftsführer": "Marlies Head, Thomas Kleinertz",
+            "Handelsregister": "AG Hamburg HRB 47281",
+            "VAT ID": "DE118 696 407",
+            "Bank": {
+                "Name": "HypoVereinsbank",
+                "IBAN": "DE48 2003 0000 0003 6027 11",
+                "BIC": "HYVEDEMM300",
+                "Konto-Nr.": "360 27 11",
+                "BLZ": "200 300 00"
+            }
+        },
+        "Guest Information": {
+            "Company": "APfmeister Consulting GmbH",
+            "Address": "Friedrichstr. 123, 10117 Berlin",
+            "Guest Name": "Herr Jens Walter"
+        },
+        "Invoice Information": {
+            "Rechnungs-Nr.": "506928",
+            "Date": "26.07.19",
+            "Room": "437",
+            "Anreise": "21.07.19",
+            "Abreise": "26.07.19",
+            "Seite": "1 of 1",
+            "Benutzer ID": "RF"
+        },
+        "Charges": [
+            {
+                "Datum": "21.07.19",
+                "Beschreibung": "Übernachtung exklusive Frühstück",
+                "Belastung": 110.0,
+                "Entlastung": null
+            },
+            {
+                "Datum": "22.07.19",
+                "Beschreibung": "Übernachtung exklusive Frühstück",
+                "Belastung": 110.0,
+                "Entlastung": null
+            },
+            {
+                "Datum": "23.07.19",
+                "Beschreibung": "Übernachtung exklusive Frühstück",
+                "Belastung": 110.0,
+                "Entlastung": null
+            },
+            {
+                "Datum": "24.07.19",
+                "Beschreibung": "Übernachtung exklusive Frühstück",
+                "Belastung": 110.0,
+                "Entlastung": null
+            },
+            {
+                "Datum": "25.07.19",
+                "Beschreibung": "Übernachtung exklusive Frühstück",
+                "Belastung": 110.0,
+                "Entlastung": null
+            },
+            {
+                "Datum": "26.07.19",
+                "Beschreibung": "Mastercard IFC",
+                "Belastung": null,
+                "Entlastung": 550.0
+            }
+        ],
+        "Summary": {
+            "Total inkl. MwSt.": {
+                "Netto EUR": 514.02,
+                "MwSt. EUR": 35.98,
+                "Brutto EUR": 550.0
+            },
+            "MwSt. 7%": {
+                "Netto EUR": 514.02,
+                "MwSt. EUR": 35.98,
+                "Brutto EUR": 550.0
+            },
+            "Total": 550.0,
+            "Saldo": "0.00 EUR"
+        },
+        "Payment Information": {
+            "Finanzamt": "Hamburg Mitte",
+            "Steuernummer": "48/741/00128",
+            "Kreditkarteninstitut": {
+                "Vertragspartner": "15648932",
+                "Beleg Nr.": "36856",
+                "Kreditkartennummer": "XXXXXXXXXXXX0502",
+                "Transaktionsbetrag": "550.00",
+                "Verfallsdatum": "XXXX",
+                "Genehmigter Betrag": "550.00",
+                "Terminal ID": "69264893",
+                "Genehmigungscode": "696152"
+            },
+            "Unterschrift": "Unterschrift des Karteninhabers"
+        }
+    }
+]
+```
+
+---
+
+## High-Level Overview
+
+This is a configuration/data file.
+
+---
+
+## Detailed Walkthrough
+
+---
+
+## Performance & Security Notes
+
+- Verify that sensitive data is not committed to version control
+- Validate configuration values
+
+---
+
+## Related Files
+
+See the folder index for related files in the same directory.
+
+---
+
+## Tests / How to Run
+
+Refer to the project README for instructions on how to use this file.
+
+---
+
+*Documentation generated for `examples/data/hotel_invoices/extracted_invoice_json /madison_folio_g_cp_efolio5945547_extracted.json`*

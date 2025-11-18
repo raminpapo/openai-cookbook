@@ -1,0 +1,115 @@
+# File Documentation: package.json
+
+## File Metadata
+- **Path**: `examples/voice_solutions/one_way_translation_using_realtime_api/package.json`
+- **Size**: 1,882 bytes (1,882 characters)
+- **Lines**: 67
+- **Extension**: `.json`
+- **Classification**: text
+
+---
+
+## Original Source
+
+```json
+{
+  "name": "openai-realtime-console",
+  "version": "0.0.0",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@openai/realtime-api-beta": "github:openai/openai-realtime-api-beta#main",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.5.2",
+    "@types/leaflet": "^1.9.12",
+    "@types/node": "^16.18.108",
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "axios": "^1.8.2",
+    "dotenv": "^16.4.5",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.474.0",
+    "papaparse": "^5.5.2",
+    "path-browserify": "^1.0.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-feather": "^2.0.10",
+    "react-leaflet": "^4.2.1",
+    "react-router-dom": "^7.5.2",
+    "react-scripts": "^5.0.1",
+    "sass": "^1.78.0",
+    "save": "^2.9.0",
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1",
+    "typescript": "^4.9.5",
+    "web-vitals": "^2.1.4",
+    "ws": "^8.18.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "zip": "zip -r realtime-api-console.zip . -x 'node_modules' 'node_modules/*' 'node_modules/**' '.git' '.git/*' '.git/**' '.DS_Store' '*/.DS_Store' 'package-lock.json' '*.zip' '*.tar.gz' '*.tar' '.env'",
+    "relay": "nodemon ./relay-server/index.js"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "nodemon": "^3.1.7"
+  }
+}
+
+```
+
+---
+
+## High-Level Overview
+
+This is a configuration/data file.
+
+---
+
+## Detailed Walkthrough
+
+---
+
+## Performance & Security Notes
+
+- Verify that sensitive data is not committed to version control
+- Validate configuration values
+
+---
+
+## Related Files
+
+See the folder index for related files in the same directory.
+
+---
+
+## Tests / How to Run
+
+Refer to the project README for instructions on how to use this file.
+
+---
+
+*Documentation generated for `examples/voice_solutions/one_way_translation_using_realtime_api/package.json`*

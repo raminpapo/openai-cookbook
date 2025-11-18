@@ -1,0 +1,153 @@
+# File Documentation: citadines_08372561_extracted.json
+
+## File Metadata
+- **Path**: `examples/data/hotel_invoices/extracted_invoice_json /citadines_08372561_extracted.json`
+- **Size**: 3,359 bytes (3,341 characters)
+- **Lines**: 105
+- **Extension**: `.json`
+- **Classification**: text
+
+---
+
+## Original Source
+
+```json
+[
+    {
+        "Hotel Information": {
+            "Name": "Citadines Michel Hamburg",
+            "Address": "Ludwig-Erhard-Str. 7, D-20459 Hamburg, Deutschland",
+            "Contact": {
+                "Phone": "+49 (0)40-300618-0",
+                "Fax": "+49 (0)40-300618-1999",
+                "Email": "hamburg@citadines.com",
+                "Website": "www.citadines.com"
+            },
+            "Operator": "Citadines Betreibs GmbH - Amtsgericht Frankfurt/Main - HRB 52815",
+            "Bank Information": {
+                "Bank": "Commerzbank Frankfurt",
+                "Account Number": "040 230 3437",
+                "IBAN": "DE27500400000385712500",
+                "Swift/BIC": "COBADEFFXXX"
+            }
+        },
+        "Rechnungsadresse": {
+            "Company": "APImeisler Consulting GmbH",
+            "Address": "Friedrichstrasse 123, 10117 Berlin, Germany"
+        },
+        "Guest Information": {
+            "Name": "Herr Jens Walter",
+            "Reservierungsnr": "1221737070-1",
+            "Apartment Nr": "420",
+            "Apartment Typ": "1-Bedroom",
+            "Anreisedatum": "31/03/2019",
+            "Abreisedatum": "05/04/2019"
+        },
+        "Invoice Information": {
+            "Rechnungsnr": "083-72561",
+            "A/R Nr": null,
+            "TO Reference No": null,
+            "Rechnungsdatum": "05/04/19 - 09:46",
+            "Bediener": "DE-GB",
+            "Seite": "1 von 1"
+        },
+        "Charges": [
+            {
+                "DATUM": "31/03/19",
+                "APT NR": "420",
+                "BESCHREIBUNG": "Apartment 31/03/19#420",
+                "EURO": "92,56"
+            },
+            {
+                "DATUM": "01/04/19",
+                "APT NR": "420",
+                "BESCHREIBUNG": "Apartment 01/04/19#420",
+                "EURO": "197,20"
+            },
+            {
+                "DATUM": "02/04/19",
+                "APT NR": "420",
+                "BESCHREIBUNG": "Apartment 02/04/19#420",
+                "EURO": "254,15"
+            },
+            {
+                "DATUM": "03/04/19",
+                "APT NR": "420",
+                "BESCHREIBUNG": "Apartment 03/04/19#420",
+                "EURO": "215,90"
+            },
+            {
+                "DATUM": "04/04/19",
+                "APT NR": "420",
+                "BESCHREIBUNG": "Apartment 04/04/19#420",
+                "EURO": "143,82"
+            },
+            {
+                "DATUM": "31/03/19",
+                "APT NR": "420",
+                "BESCHREIBUNG": "Mastercard bnr 8324 SPLIT",
+                "EURO": "-903,63"
+            }
+        ],
+        "Summary": {
+            "Summe Belastungen": "903,63",
+            "Summe Zahlungen": "-903,63",
+            "offener Betrag": "0,00"
+        },
+        "Taxes": [
+            {
+                "MwSt. %": "19.00 %",
+                "NETTO €": "0,00",
+                "MwSt €": "0,00",
+                "BRUTTO €": "0,00"
+            },
+            {
+                "MwSt. %": "7.00 %",
+                "NETTO €": "844,51",
+                "MwSt €": "59,12",
+                "BRUTTO €": "903,63"
+            },
+            {
+                "MwSt. %": "0.00 %",
+                "NETTO €": "0,00",
+                "MwSt €": "0,00",
+                "BRUTTO €": "0,00"
+            }
+        ]
+    },
+    {}
+]
+```
+
+---
+
+## High-Level Overview
+
+This is a configuration/data file.
+
+---
+
+## Detailed Walkthrough
+
+---
+
+## Performance & Security Notes
+
+- Verify that sensitive data is not committed to version control
+- Validate configuration values
+
+---
+
+## Related Files
+
+See the folder index for related files in the same directory.
+
+---
+
+## Tests / How to Run
+
+Refer to the project README for instructions on how to use this file.
+
+---
+
+*Documentation generated for `examples/data/hotel_invoices/extracted_invoice_json /citadines_08372561_extracted.json`*

@@ -1,0 +1,144 @@
+# File Documentation: citadines-20190331_Invoice_extracted.json
+
+## File Metadata
+- **Path**: `examples/data/hotel_invoices/extracted_invoice_json /citadines-20190331_Invoice_extracted.json`
+- **Size**: 3,106 bytes (3,088 characters)
+- **Lines**: 96
+- **Extension**: `.json`
+- **Classification**: text
+
+---
+
+## Original Source
+
+```json
+[
+    {
+        "Rechnungsadresse": {
+            "Firma": "APImeisster Consulting GmbH",
+            "Adresse": "Friedrichstrasse 123",
+            "Stadt": "10117 Berlin",
+            "Land": "Germany"
+        },
+        "Gastname": "Herr Jens Walter",
+        "Reservierungsnr.": "1221737070-1",
+        "Apartment Nr.": "420",
+        "Apartment Typ": "1-Bedroom",
+        "Anreisedatum": "31/03/2019",
+        "Abreisedatum": "05/04/2019",
+        "Rechnungsnr.": "083-72561",
+        "A/R Nr.": null,
+        "TO Reference No.": null,
+        "Rechnungsdatum": "05/04/19 - 09:46",
+        "Bediener": "DE-GB",
+        "Seite": "1 von 1",
+        "Tabelle": [
+            {
+                "DATUM": "31/03/19",
+                "APT NR.": "420",
+                "BESCHREIBUNG": "Apartment 31/03/19#420",
+                "EURO": "92,56"
+            },
+            {
+                "DATUM": "01/04/19",
+                "APT NR.": "420",
+                "BESCHREIBUNG": "Apartment 01/04/19#420",
+                "EURO": "197,20"
+            },
+            {
+                "DATUM": "02/04/19",
+                "APT NR.": "420",
+                "BESCHREIBUNG": "Apartment 02/04/19#420",
+                "EURO": "254,15"
+            },
+            {
+                "DATUM": "03/04/19",
+                "APT NR.": "420",
+                "BESCHREIBUNG": "Apartment 03/04/19#420",
+                "EURO": "215,90"
+            },
+            {
+                "DATUM": "04/04/19",
+                "APT NR.": "420",
+                "BESCHREIBUNG": "Apartment 04/04/19#420",
+                "EURO": "143,82"
+            },
+            {
+                "DATUM": "31/03/19",
+                "APT NR.": "420",
+                "BESCHREIBUNG": "Mastercard bnr 8324 SPLIT",
+                "EURO": "-903,63"
+            }
+        ],
+        "Summe Belastungen": "903,63",
+        "Summe Zahlungen": "-903,63",
+        "offener Betrag": "0,00",
+        "MwSt.": [
+            {
+                "Satz": "19.00 %",
+                "NETTO €": "0,00",
+                "MwSt €": "0,00",
+                "BRUTTO €": "0,00"
+            },
+            {
+                "Satz": "7.00 %",
+                "NETTO €": "844,51",
+                "MwSt €": "59,12",
+                "BRUTTO €": "903,63"
+            },
+            {
+                "Satz": "0.00 %",
+                "NETTO €": "0,00",
+                "MwSt €": "0,00",
+                "BRUTTO €": "0,00"
+            }
+        ],
+        "Hotel Information": {
+            "Name": "Citadines Michel Hamburg",
+            "Adresse": "Ludwig-Erhard-Str. 7, D-20459 Hamburg, Deutschland",
+            "Telefon": "+49 (0)40-30618-0",
+            "Fax": "+49 (0)40-30618-1999",
+            "Email": "hamburg@citadines.com",
+            "Website": "www.citadines.com",
+            "Betreiber": "Citadines Betriebes GmbH - Amtsgericht Frankfurt/Main - HRB 52815",
+            "Bankverbindung": "Commerzbank Frankfurt - St.-Nr.: 040 230 34731",
+            "IBAN": "DE27500400000385712500",
+            "Swift/BIC": "COBADEFFXXX"
+        }
+    },
+    {}
+]
+```
+
+---
+
+## High-Level Overview
+
+This is a configuration/data file.
+
+---
+
+## Detailed Walkthrough
+
+---
+
+## Performance & Security Notes
+
+- Verify that sensitive data is not committed to version control
+- Validate configuration values
+
+---
+
+## Related Files
+
+See the folder index for related files in the same directory.
+
+---
+
+## Tests / How to Run
+
+Refer to the project README for instructions on how to use this file.
+
+---
+
+*Documentation generated for `examples/data/hotel_invoices/extracted_invoice_json /citadines-20190331_Invoice_extracted.json`*
