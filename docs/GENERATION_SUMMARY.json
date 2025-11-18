@@ -1,0 +1,34 @@
+{
+  "repo_source": "/home/user/openai-cookbook",
+  "repo_fingerprint": "625edfe2994bda8f7d78ec65da39c8b3b20f76c0",
+  "files_scanned": 2592,
+  "folders_scanned": 174,
+  "docs_created": 5670,
+  "words_estimated": 5993448,
+  "bytes_written": 92302898,
+  "total_size_mb": 93,
+  "errors": [],
+  "generation_details": {
+    "per_file_docs": 5184,
+    "per_folder_docs": 522,
+    "global_docs": 3,
+    "verification_files": 1,
+    "manifest_files": 2
+  },
+  "verification_summary": {
+    "checksums_computed": 5666,
+    "links_validated": 199344,
+    "broken_links": 1160,
+    "binary_files": 1760,
+    "skipped_files": 0,
+    "unreadable_files": 0
+  },
+  "git_info": {
+    "branch": "claude/repo-book-generator-01MeafefcG8MZxg6DGHCHnj7",
+    "commit_sha": "544ea4b",
+    "pushed": true
+  },
+  "timestamp": "2025-11-18T22:47:07Z",
+  "generator_version": "1.0.0",
+  "status": "COMPLETED"
+}
