@@ -1,0 +1,188 @@
+# Documentation: transformed_hampton-25789_extracted.json
+
+## File Metadata
+- **Path**: `examples/data/hotel_invoices/transformed_invoice_json/transformed_hampton-25789_extracted.json`
+- **Type**: .json file
+- **Size**: 2,887 bytes (2.82 KB)
+- **Lines**: 135
+- **Words**: 258
+- **Characters**: 2,887
+
+## Original Source
+
+```json
+{
+  "hotel_information": {
+    "name": "Hampton by Hilton Hamburg City Centre",
+    "address": {
+      "street": "Nordkanalstrasse 18",
+      "city": "Hamburg",
+      "country": "Germany",
+      "postal_code": "20097"
+    },
+    "contact": {
+      "phone": "+49(0)40-302372-0",
+      "fax": "+49(0)40-302372-100",
+      "email": null,
+      "website": null
+    }
+  },
+  "guest_information": {
+    "company": "APIMEISTER CONSULTING GMBH",
+    "address": "FRIEDRICHSTR. 123, 10117 BERLIN, GERMANY",
+    "guest_name": "JENS WALTER"
+  },
+  "invoice_information": {
+    "invoice_number": "25789",
+    "reservation_number": "5296853",
+    "date": null,
+    "room_number": "511 /NUX",
+    "check_in_date": "2019-06-02",
+    "check_out_date": "2019-06-07"
+  },
+  "charges": [
+    {
+      "date": "2019-06-03",
+      "description": "CREDIT CARD - ADVANCE DEPOSIT *5052",
+      "charge": null,
+      "credit": 776.56
+    },
+    {
+      "date": "2019-06-03",
+      "description": "CANCELLATION CHARGE",
+      "charge": 155.0,
+      "credit": null
+    },
+    {
+      "date": "2019-06-03",
+      "description": "CANCELLATION CHARGE",
+      "charge": null,
+      "credit": 155.0
+    },
+    {
+      "date": "2019-06-03",
+      "description": "GUEST ROOM",
+      "charge": 150.05,
+      "credit": null
+    },
+    {
+      "date": "2019-06-03",
+      "description": "BREAKFAST",
+      "charge": 9.45,
+      "credit": null
+    },
+    {
+      "date": "2019-06-04",
+      "description": "GUEST ROOM",
+      "charge": 150.05,
+      "credit": null
+    },
+    {
+      "date": "2019-06-04",
+      "description": "BREAKFAST",
+      "charge": 9.45,
+      "credit": null
+    },
+    {
+      "date": "2019-06-05",
+      "description": "GUEST ROOM",
+      "charge": 150.05,
+      "credit": null
+    },
+    {
+      "date": "2019-06-05",
+      "description": "BREAKFAST",
+      "charge": 9.45,
+      "credit": null
+    },
+    {
+      "date": "2019-06-06",
+      "description": "GUEST ROOM",
+      "charge": 161.61,
+      "credit": null
+    },
+    {
+      "date": "2019-06-06",
+      "description": "BREAKFAST",
+      "charge": 9.45,
+      "credit": null
+    },
+    {
+      "date": "2019-06-07",
+      "description": "GUEST ROOM",
+      "charge": 150.05,
+      "credit": null
+    },
+    {
+      "date": "2019-06-07",
+      "description": "BREAKFAST",
+      "charge": 4.95,
+      "credit": null
+    }
+  ],
+  "totals_summary": {
+    "currency": "EUR",
+    "total_net": 702.61,
+    "total_tax": 49.2,
+    "total_gross": 776.56,
+    "total_charge": 776.56,
+    "total_credit": 776.56,
+    "balance_due": 0.0
+  },
+  "taxes": [
+    {
+      "tax_type": "VAT 19%",
+      "tax_rate": "19%",
+      "net_amount": 20.8,
+      "tax_amount": 3.95,
+      "gross_amount": 24.75
+    },
+    {
+      "tax_type": "VAT 7%",
+      "tax_rate": "7%",
+      "net_amount": 702.61,
+      "tax_amount": 49.2,
+      "gross_amount": 751.81
+    }
+  ]
+}
+```
+
+
+
+## High-Level Overview
+
+JSON data file containing structured configuration or data.
+
+## Detailed Analysis
+
+**Top-level keys**: hotel_information, guest_information, invoice_information, charges, totals_summary, taxes
+
+## Usage & Examples
+
+See file content for usage details.
+
+## Performance & Security Notes
+
+No specific performance or security concerns identified.
+
+## Related Files
+
+**Same directory**:
+- [transformed_20190119_002_extracted.json](./transformed_20190119_002_extracted.json_docs.md)
+- [transformed_20190202_THE MADISON HAMBURG_001_extracted.json](./transformed_20190202_THE MADISON HAMBURG_001_extracted.json_docs.md)
+- [transformed_20190202_THE MADISON HAMBURG_extracted.json](./transformed_20190202_THE MADISON HAMBURG_extracted.json_docs.md)
+- [transformed_citadines-20190331_Invoice_extracted.json](./transformed_citadines-20190331_Invoice_extracted.json_docs.md)
+- [transformed_citadines_08372561_extracted.json](./transformed_citadines_08372561_extracted.json_docs.md)
+- [transformed_hampton_20190411_extracted.json](./transformed_hampton_20190411_extracted.json_docs.md)
+- [transformed_hampton_24361_extracted.json](./transformed_hampton_24361_extracted.json_docs.md)
+- [transformed_hampton_28646_extracted.json](./transformed_hampton_28646_extracted.json_docs.md)
+- [transformed_madison-489347_extracted.json](./transformed_madison-489347_extracted.json_docs.md)
+- [transformed_madison-490057_extracted.json](./transformed_madison-490057_extracted.json_docs.md)
+
+## Testing & Execution
+
+See project documentation for testing procedures.
+
+---
+*Generated by Repo Book Generator v1.0.0*

@@ -1,0 +1,731 @@
+# Keywords: Embedding_Wikipedia_articles_for_search.ipynb
+
+**Source**: `examples/Embedding_Wikipedia_articles_for_search.ipynb`
+**Keyword Count**: 586
+
+## Extracted Keywords
+
+### A
+
+- **API** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#api)
+- **After** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#after)
+- **American** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#american)
+
+### B
+
+- **BATCH_SIZE** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#batch-size)
+- **Batch** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#batch)
+- **Because** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#because)
+- **Beijing** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#beijing)
+- **Bibliography** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#bibliography)
+- **Bids** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#bids)
+- **Bob** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#bob)
+
+### C
+
+- **CATEGORY_TITLE** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#category-title)
+- **CSV** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#csv)
+- **Category** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#category)
+- **China** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#china)
+- **Chinese** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#chinese)
+- **Chunk** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#chunk)
+- **Citations** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#citations)
+- **Clean** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#clean)
+- **Collect** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#collect)
+- **Committee** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#committee)
+- **Concerns** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#concerns)
+- **Cost** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#cost)
+- **Costas** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#costas)
+- **Criticism** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#criticism)
+
+### D
+
+- **DataFrame** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#dataframe)
+- **DataFrames** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#dataframes)
+- **Diplomatic** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#diplomatic)
+- **Discard** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#discard)
+- **Documents** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#documents)
+
+### E
+
+- **EMBEDDING_MODEL** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#embedding-model)
+- **Each** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#each)
+- **Embed** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#embed)
+- **Embedding** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#embedding)
+- **Embeddings** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#embeddings)
+- **External** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#external)
+
+### F
+
+- **File** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#file)
+- **Filtered** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#filtered)
+- **Footnotes** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#footnotes)
+- **Found** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#found)
+- **Further** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#further)
+
+### G
+
+- **GPT** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#gpt)
+- **GPT_MODEL** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#gpt-model)
+- **Gallery** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#gallery)
+
+### H
+
+- **Heading** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#heading)
+- **Here** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#here)
+
+### I
+
+- **IOC** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#ioc)
+- **Install** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#install)
+- **International** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#international)
+
+### L
+
+- **Links** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#links)
+- **Literature** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#literature)
+- **Longer** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#longer)
+
+### M
+
+- **MAX_TOKENS** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#max-tokens)
+
+### N
+
+- **Next** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#next)
+- **Nils** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#nils)
+- **Note** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#note)
+- **Notes** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#notes)
+- **Now** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#now)
+
+### O
+
+- **OPENAI_API_KEY** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#openai-api-key)
+- **Olympic** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#olympic)
+- **Olympics** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#olympics)
+- **OpenAI** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#openai)
+- **Organizing** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#organizing)
+- **Overlapping** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#overlapping)
+- **Overview** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#overview)
+
+### P
+
+- **Page** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#page)
+- **Photo** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#photo)
+- **Photos** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#photos)
+- **Poel** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#poel)
+- **Prepend** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#prepend)
+- **Prerequisites** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#prerequisites)
+- **Procedure** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#procedure)
+- **Promotional** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#promotional)
+
+### Q
+
+- **Question_answering_using_embeddings** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#question-answering-using-embeddings)
+
+### R
+
+- **References** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#references)
+
+### S
+
+- **SAVE_PATH** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#save-path)
+- **SECTIONS_TO_IGNORE** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#sections-to-ignore)
+- **See** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#see)
+- **Set** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#set)
+- **Several** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#several)
+- **Short** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#short)
+- **Shorter** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#shorter)
+- **Site** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#site)
+- **Some** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#some)
+- **Sources** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#sources)
+- **Split** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#split)
+- **Store** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#store)
+- **Sweden** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#sweden)
+
+### T
+
+- **There** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#there)
+- **Truncate** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#truncate)
+- **Truncated** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#truncated)
+
+### W
+
+- **WIKI_SITE** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#wiki-site)
+- **Warning** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#warning)
+- **Wiki** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#wiki)
+- **Wikicode** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#wikicode)
+- **Wikipedia** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#wikipedia)
+- **Winter** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#winter)
+- **Works** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#works)
+
+### Y
+
+- **You** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#you)
+
+### A
+
+- **about** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#about)
+- **abs** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#abs)
+- **add** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#add)
+- **after** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#after)
+- **again** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#again)
+- **all** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#all)
+- **all_subsections_from_section** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#all-subsections-from-section)
+- **all_subsections_from_title** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#all-subsections-from-title)
+- **alleged** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#alleged)
+- **allow** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#allow)
+- **along** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#along)
+- **already** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#already)
+- **also** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#also)
+- **amount** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#amount)
+- **answers** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#answers)
+- **any** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#any)
+- **api** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#api)
+- **api_key** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#api-key)
+- **api_request_parallel_processor** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#api-request-parallel-processor)
+- **applications** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#applications)
+- **approach** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#approach)
+- **are** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#are)
+- **article** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#article)
+- **articles** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#articles)
+- **assert** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#assert)
+- **attachments** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#attachments)
+- **attendance** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#attendance)
+- **avoid** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#avoid)
+- **award** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#award)
+
+### B
+
+- **back** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#back)
+- **balance** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#balance)
+- **batch** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#batch)
+- **batch_embeddings** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#batch-embeddings)
+- **batch_end** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#batch-end)
+- **batch_start** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#batch-start)
+- **before** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#before)
+- **begin** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#begin)
+- **being** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#being)
+- **best** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#best)
+- **best_diff** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#best-diff)
+- **better** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#better)
+- **blank** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#blank)
+- **blatantly** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#blatantly)
+- **blob** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#blob)
+- **bool** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#bool)
+- **boundaries** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#boundaries)
+- **boycotts** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#boycotts)
+- **break** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#break)
+- **but** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#but)
+
+### C
+
+- **can** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#can)
+- **catch** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#catch)
+- **category** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#category)
+- **category_page** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#category-page)
+- **cell** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#cell)
+- **cell_type** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#cell-type)
+- **cells** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#cells)
+- **check** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#check)
+- **children** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#children)
+- **chunk** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#chunk)
+- **chunks** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#chunks)
+- **cited** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#cited)
+- **cities** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#cities)
+- **clean** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#clean)
+- **clean_section** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#clean-section)
+- **cleaned** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#cleaned)
+- **client** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#client)
+- **climate** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#climate)
+- **code** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#code)
+- **codemirror_mode** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#codemirror-mode)
+- **com** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#com)
+- **comes** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#comes)
+- **commentators** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#commentators)
+- **compute** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#compute)
+- **concerns** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#concerns)
+- **contained** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#contained)
+- **context** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#context)
+- **continue** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#continue)
+- **controversies** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#controversies)
+- **cookbook** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#cookbook)
+- **costs** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#costs)
+- **counting** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#counting)
+- **country** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#country)
+- **create** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#create)
+- **criticize** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#criticize)
+- **criticized** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#criticized)
+- **csv** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#csv)
+- **cut** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#cut)
+- **cutting** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#cutting)
+
+### D
+
+- **data** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#data)
+- **database** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#database)
+- **dataset** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#dataset)
+- **datasets** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#datasets)
+- **decision** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#decision)
+- **declined** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#declined)
+- **decode** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#decode)
+- **deep** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#deep)
+- **deeper_titles** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#deeper-titles)
+- **define** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#define)
+- **delimiter** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#delimiter)
+- **der** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#der)
+- **description** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#description)
+- **deserves** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#deserves)
+- **diff** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#diff)
+- **diplomatic** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#diplomatic)
+- **disdain** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#disdain)
+- **disgust** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#disgust)
+- **display** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#display)
+- **display_data** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#display-data)
+- **display_name** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#display-name)
+- **document** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#document)
+- **documents** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#documents)
+- **doing** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#doing)
+- **don** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#don)
+- **double** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#double)
+- **download** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#download)
+- **downloading** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#downloading)
+- **during** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#during)
+
+### E
+
+- **each** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#each)
+- **early** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#early)
+- **either** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#either)
+- **element** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#element)
+- **elif** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#elif)
+- **embedded** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#embedded)
+- **embedding** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#embedding)
+- **embeddings** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#embeddings)
+- **empty** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#empty)
+- **encode** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#encode)
+- **encoded_string** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#encoded-string)
+- **encoding** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#encoding)
+- **encoding_for_model** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#encoding-for-model)
+- **enough** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#enough)
+- **enumerate** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#enumerate)
+- **env** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#env)
+- **environ** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#environ)
+- **environment** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#environment)
+- **example** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#example)
+- **examples** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#examples)
+- **execution_count** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#execution-count)
+- **extend** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#extend)
+- **extremely** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#extremely)
+
+### F
+
+- **few** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#few)
+- **file** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#file)
+- **file_extension** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#file-extension)
+- **filter** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#filter)
+- **filter_headings** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#filter-headings)
+- **fine** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#fine)
+- **first** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#first)
+- **first_subtitle** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#first-subtitle)
+- **flattened** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#flattened)
+- **following** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#following)
+- **found** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#found)
+- **full_text** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#full-text)
+- **functions** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#functions)
+
+### G
+
+- **gallery** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#gallery)
+- **games** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#games)
+- **generating** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#generating)
+- **get** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#get)
+- **get_sections** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#get-sections)
+- **github** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#github)
+- **give** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#give)
+- **given** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#given)
+- **going** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#going)
+- **gold** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#gold)
+- **gpt** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#gpt)
+- **grained** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#grained)
+
+### H
+
+- **had** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#had)
+- **half** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#half)
+- **half_strings** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#half-strings)
+- **half_subsection** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#half-subsection)
+- **halfway** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#halfway)
+- **halved_by_delimiter** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#halved-by-delimiter)
+- **halving** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#halving)
+- **hasn** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#hasn)
+- **have** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#have)
+- **haven** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#haven)
+- **headings** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#headings)
+- **help** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#help)
+- **his** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#his)
+- **home** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#home)
+- **host** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#host)
+- **how** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#how)
+- **https** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#https)
+- **human** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#human)
+- **hundred** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#hundred)
+
+### I
+
+- **imports** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#imports)
+- **include** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#include)
+- **index** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#index)
+- **inheritance** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#inheritance)
+- **input** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#input)
+- **inputs** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#inputs)
+- **insofar** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#insofar)
+- **install** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#install)
+- **instead** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#instead)
+- **instructions** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#instructions)
+- **int** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#int)
+- **into** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#into)
+- **ipynb** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#ipynb)
+- **ipython** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#ipython)
+- **ipython3** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#ipython3)
+- **irresponsible** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#irresponsible)
+- **isinstance** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#isinstance)
+- **iterations** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#iterations)
+- **its** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#its)
+
+### J
+
+- **jobs** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#jobs)
+- **join** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#join)
+- **just** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#just)
+
+### K
+
+- **keep_section** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#keep-section)
+- **kept** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#kept)
+- **kernel** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#kernel)
+- **kernelspec** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#kernelspec)
+- **key** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#key)
+
+### L
+
+- **language** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#language)
+- **language_info** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#language-info)
+- **large** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#large)
+- **larger** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#larger)
+- **leading** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#leading)
+- **leaving** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#leaving)
+- **left** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#left)
+- **left_tokens** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#left-tokens)
+- **len** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#len)
+- **length** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#length)
+- **less** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#less)
+- **level** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#level)
+- **levels** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#levels)
+- **libraries** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#libraries)
+- **library** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#library)
+- **life** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#life)
+- **like** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#like)
+- **limit** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#limit)
+- **limited** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#limited)
+- **limits** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#limits)
+- **links** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#links)
+- **list** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#list)
+- **listing** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#listing)
+- **live** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#live)
+- **long** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#long)
+- **looking** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#looking)
+
+### M
+
+- **main** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#main)
+- **markdown** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#markdown)
+- **match** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#match)
+- **matters** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#matters)
+- **max_depth** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#max-depth)
+- **max_recursion** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#max-recursion)
+- **max_tokens** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#max-tokens)
+- **maximum** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#maximum)
+- **may** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#may)
+- **means** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#means)
+- **medals** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#medals)
+- **members** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#members)
+- **metadata** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#metadata)
+- **middle** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#middle)
+- **mimetype** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#mimetype)
+- **mini** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#mini)
+- **minute** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#minute)
+- **missing** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#missing)
+- **model** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#model)
+- **more** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#more)
+- **muddled** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#muddled)
+- **mwclient** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#mwclient)
+- **mwparserfromhell** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#mwparserfromhell)
+
+### N
+
+- **name** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#name)
+- **nbconvert_exporter** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#nbconvert-exporter)
+- **nbformat** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#nbformat)
+- **nbformat_minor** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#nbformat-minor)
+- **need** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#need)
+- **needed** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#needed)
+- **nested** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#nested)
+- **non** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#non)
+- **not** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#not)
+- **note** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#note)
+- **notebook** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#notebook)
+- **notes** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#notes)
+- **num_tokens** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#num-tokens)
+- **num_tokens_in_string** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#num-tokens-in-string)
+- **number** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#number)
+
+### O
+
+- **once** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#once)
+- **one** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#one)
+- **only** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#only)
+- **openai** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#openai)
+- **order** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#order)
+- **org** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#org)
+- **orig_nbformat** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#orig-nbformat)
+- **original_num_sections** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#original-num-sections)
+- **os** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#os)
+- **otherwise** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#otherwise)
+- **our** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#our)
+- **out** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#out)
+- **output_type** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#output-type)
+- **outputs** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#outputs)
+
+### P
+
+- **page** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#page)
+- **pages** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#pages)
+- **pandas** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#pandas)
+- **paragraph** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#paragraph)
+- **paragraphs** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#paragraphs)
+- **parallelize** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#parallelize)
+- **parent** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#parent)
+- **parent_titles** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#parent-titles)
+- **parse** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#parse)
+- **parsed_text** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#parsed-text)
+- **particularly** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#particularly)
+- **patterns** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#patterns)
+- **per** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#per)
+- **perfect** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#perfect)
+- **performant** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#performant)
+- **pip** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#pip)
+- **plain** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#plain)
+- **point** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#point)
+- **possible** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#possible)
+- **practices** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#practices)
+- **prepare** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#prepare)
+- **prepared** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#prepared)
+- **prevent** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#prevent)
+- **print** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#print)
+- **print_warning** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#print-warning)
+- **productive** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#productive)
+- **promotional** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#promotional)
+- **proportional** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#proportional)
+- **pygments_lexer** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#pygments-lexer)
+- **python** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#python)
+- **python3** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#python3)
+
+### Q
+
+- **questions** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#questions)
+
+### R
+
+- **range** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#range)
+- **rare** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#rare)
+- **rate** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#rate)
+- **re** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#re)
+- **read** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#read)
+- **reading** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#reading)
+- **recall** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#recall)
+- **recipe** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#recipe)
+- **record** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#record)
+- **recurse** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#recurse)
+- **recursion** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#recursion)
+- **recursively** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#recursively)
+- **reducing** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#reducing)
+- **ref** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#ref)
+- **reference** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#reference)
+- **references** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#references)
+- **referencing** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#referencing)
+- **regime** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#regime)
+- **related** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#related)
+- **relevant** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#relevant)
+- **removed** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#removed)
+- **removing** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#removing)
+- **request** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#request)
+- **requests** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#requests)
+- **require** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#require)
+- **response** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#response)
+- **restart** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#restart)
+- **results** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#results)
+- **retrieval** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#retrieval)
+- **retrieved** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#retrieved)
+- **retry** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#retry)
+- **returning** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#returning)
+- **right** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#right)
+- **rights** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#rights)
+
+### S
+
+- **safety** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#safety)
+- **same** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#same)
+- **save** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#save)
+- **saved** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#saved)
+- **say** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#say)
+- **saying** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#saying)
+- **script** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#script)
+- **search** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#search)
+- **second** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#second)
+- **section** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#section)
+- **section_text** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#section-text)
+- **sections** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#sections)
+- **sections_to_ignore** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#sections-to-ignore)
+- **selection** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#selection)
+- **selects** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#selects)
+- **semantic** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#semantic)
+- **semi** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#semi)
+- **sentences** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#sentences)
+- **set** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#set)
+- **short** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#short)
+- **shorter** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#shorter)
+- **should** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#should)
+- **shows** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#shows)
+- **side** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#side)
+- **simple** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#simple)
+- **site** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#site)
+- **site_name** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#site-name)
+- **skater** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#skater)
+- **small** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#small)
+- **smaller** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#smaller)
+- **song** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#song)
+- **songs** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#songs)
+- **source** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#source)
+- **sources** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#sources)
+- **specific** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#specific)
+- **split** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#split)
+- **split_strings_from_subsection** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#split-strings-from-subsection)
+- **splitting** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#splitting)
+- **sportscaster** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#sportscaster)
+- **starting** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#starting)
+- **stay** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#stay)
+- **stdout** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#stdout)
+- **store** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#store)
+- **str** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#str)
+- **stream** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#stream)
+- **string** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#string)
+- **strings** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#strings)
+- **strip** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#strip)
+- **sub** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#sub)
+- **subcategories** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#subcategories)
+- **submit** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#submit)
+- **subsection** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#subsection)
+- **subsections** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#subsections)
+- **subtitles** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#subtitles)
+- **summary_text** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#summary-text)
+- **super** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#super)
+- **sure** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#sure)
+- **surrounding** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#surrounding)
+- **system** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#system)
+
+### T
+
+- **tags** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#tags)
+- **take** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#take)
+- **terminal** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#terminal)
+- **text** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#text)
+- **than** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#than)
+- **their** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#their)
+- **them** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#them)
+- **these** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#these)
+- **they** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#they)
+- **think** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#think)
+- **thousand** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#thousand)
+- **throttling** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#throttling)
+- **tiktoken** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#tiktoken)
+- **title** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#title)
+- **titles** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#titles)
+- **titles_from_category** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#titles-from-category)
+- **to_csv** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#to-csv)
+- **together** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#together)
+- **tokenizer** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#tokenizer)
+- **tokens** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#tokens)
+- **too** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#too)
+- **topics** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#topics)
+- **total_tokens** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#total-tokens)
+- **tradeoffs** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#tradeoffs)
+- **trailing** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#trailing)
+- **transition** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#transition)
+- **tree** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#tree)
+- **truncate** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#truncate)
+- **truncated_string** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#truncated-string)
+- **try** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#try)
+- **trying** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#trying)
+- **tuple** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#tuple)
+- **two** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#two)
+- **type** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#type)
+
+### U
+
+- **under** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#under)
+- **understand** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#understand)
+- **update** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#update)
+- **use** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#use)
+- **used** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#used)
+- **useful** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#useful)
+- **uses** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#uses)
+
+### V
+
+- **van** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#van)
+- **variable** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#variable)
+- **variables** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#variables)
+- **vector** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#vector)
+- **version** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#version)
+- **very** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#very)
+- **violates** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#violates)
+
+### W
+
+- **want** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#want)
+- **was** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#was)
+- **way** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#way)
+- **when** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#when)
+- **where** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#where)
+- **which** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#which)
+- **while** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#while)
+- **whitespace** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#whitespace)
+- **wiki** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#wiki)
+- **wikicode** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#wikicode)
+- **wikipedia** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#wikipedia)
+- **wikipedia_sections** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#wikipedia-sections)
+- **wikipedia_strings** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#wikipedia-strings)
+- **will** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#will)
+- **winning** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#winning)
+- **winter_olympics_2022** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#winter-olympics-2022)
+- **wise** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#wise)
+- **withdrew** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#withdrew)
+- **worse** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#worse)
+- **would** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#would)
+- **wrapped** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#wrapped)
+
+### X
+
+- **xyz** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#xyz)
+
+### Y
+
+- **yet** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#yet)
+- **you** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#you)
+- **your** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#your)
+
+### Z
+
+- **zsh** → [docs](./Embedding_Wikipedia_articles_for_search.ipynb_docs.md#zsh)
+

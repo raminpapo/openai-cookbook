@@ -1,0 +1,156 @@
+# Documentation: madison_folio_g_cp_efolio5895707_extracted.json
+
+## File Metadata
+- **Path**: `examples/data/hotel_invoices/extracted_invoice_json /madison_folio_g_cp_efolio5895707_extracted.json`
+- **Type**: .json file
+- **Size**: 3,341 bytes (3.26 KB)
+- **Lines**: 103
+- **Words**: 243
+- **Characters**: 3,326
+
+## Original Source
+
+```json
+[
+    {
+        "Hotel Information": {
+            "Name": "MADISON Hotel GmbH",
+            "Address": "Schaartestraße 4, 20459 Hamburg",
+            "Contact": {
+                "Phone": "+49.40.37 666-0",
+                "Fax": "+49.40.37 666-137",
+                "Email": "info@madisonhotel.de",
+                "Website": "madisonhotel.de"
+            },
+            "Geschäftsführer": "Marlies Head, Thomas Kleinertz",
+            "AG Hamburg HRB": "47281",
+            "VAT": "DE118 696 407",
+            "Bank": {
+                "Name": "HypoVereinsbank",
+                "BLZ": "200 300 00",
+                "Konto-Nr": "360 27 11",
+                "IBAN": "DE84 2003 0000 0360 2711",
+                "BIC": "HYVEDEMM300"
+            }
+        },
+        "Guest Information": {
+            "Company": "APfmeister Consulting GmbH",
+            "Address": "Friedrichstr. 123, 10117 Berlin",
+            "Guest Name": "Herr Jens Walter"
+        },
+        "Invoice Information": {
+            "Rechnungs-Nr.": "505050",
+            "Datum": "04.07.19",
+            "Zimmer": "203",
+            "Anreise": "30.06.19",
+            "Abreise": "04.07.19",
+            "Seite": "1 of 1",
+            "Benutzer ID": "RIL"
+        },
+        "Charges": [
+            {
+                "Datum": "30.06.19",
+                "Beschreibung": "Übernachtung exklusive Frühstück*",
+                "Belastung": 110.0,
+                "Entlastung": null
+            },
+            {
+                "Datum": "01.07.19",
+                "Beschreibung": "Übernachtung exklusive Frühstück*",
+                "Belastung": 110.0,
+                "Entlastung": null
+            },
+            {
+                "Datum": "02.07.19",
+                "Beschreibung": "Übernachtung exklusive Frühstück*",
+                "Belastung": 110.0,
+                "Entlastung": null
+            },
+            {
+                "Datum": "03.07.19",
+                "Beschreibung": "Übernachtung exklusive Frühstück*",
+                "Belastung": 110.0,
+                "Entlastung": null
+            },
+            {
+                "Datum": "04.07.19",
+                "Beschreibung": "Mastercard IFC",
+                "Belastung": null,
+                "Entlastung": 440.0
+            }
+        ],
+        "Total": {
+            "Netto EUR": 411.21,
+            "MwSt. EUR": 28.79,
+            "Brutto EUR": 440.0,
+            "Saldo": {
+                "Amount": 0.0,
+                "Currency": "EUR"
+            }
+        },
+        "Umsatzsteuer Detail": {
+            "Total inkl. MwSt.": {
+                "Netto EUR": 411.21,
+                "MwSt. EUR": 28.79,
+                "Brutto EUR": 440.0
+            },
+            "MwSt. 7%": {
+                "Netto EUR": 411.21,
+                "MwSt. EUR": 28.79,
+                "Brutto EUR": 440.0
+            }
+        },
+        "Payment Information": {
+            "Finanzamt": "Hamburg Mitte",
+            "Steuernummer": "48/741/00128",
+            "Kreditkartennr.": "156648932",
+            "Beleg Nr.": "8250",
+            "Kreditkartennummer": "XXXXXXXXXXXX5052",
+            "Transaktionsbetrag": 440.0,
+            "Verfallsdatum": "XX/XX",
+            "Genehmigter Betrag": 440.0,
+            "Terminal ID": "82664891",
+            "Genehmigungscode": "114540"
+        }
+    }
+]
+```
+
+
+
+## High-Level Overview
+
+JSON data file containing structured configuration or data.
+
+## Detailed Analysis
+
+JSON structure (parsing details unavailable)
+
+## Usage & Examples
+
+See file content for usage details.
+
+## Performance & Security Notes
+
+No specific performance or security concerns identified.
+
+## Related Files
+
+**Same directory**:
+- [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md)
+- [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md)
+- [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md)
+- [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md)
+- [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md)
+- [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md)
+- [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md)
+- [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md)
+
+## Testing & Execution
+
+See project documentation for testing procedures.
+
+---
+*Generated by Repo Book Generator v1.0.0*

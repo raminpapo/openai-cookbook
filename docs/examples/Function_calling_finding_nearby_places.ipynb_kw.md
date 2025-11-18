@@ -1,0 +1,702 @@
+# Keywords: Function_calling_finding_nearby_places.ipynb
+
+**Source**: `examples/Function_calling_finding_nearby_places.ipynb`
+**Keyword Count**: 563
+
+## Extracted Keywords
+
+### A
+
+- **API** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#api)
+- **API_KEY** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#api-key)
+- **APIs** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#apis)
+- **Account** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#account)
+- **After** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#after)
+- **Avenue** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#avenue)
+
+### B
+
+- **Best** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#best)
+- **Book** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#book)
+- **Books** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#books)
+- **Both** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#both)
+- **Bridge** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#bridge)
+
+### C
+
+- **Central** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#central)
+- **ChatCompletionMessageToolCall** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#chatcompletionmessagetoolcall)
+- **Cloud** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#cloud)
+- **Columbus** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#columbus)
+- **Commented** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#commented)
+- **Console** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#console)
+- **Could** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#could)
+- **Customer** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#customer)
+
+### D
+
+- **Depending** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#depending)
+- **Details** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#details)
+- **Doe** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#doe)
+
+### E
+
+- **Error** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#error)
+- **Evening** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#evening)
+- **Exception** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#exception)
+- **Executing** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#executing)
+
+### F
+
+- **Fetch** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#fetch)
+- **Finally** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#finally)
+- **First** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#first)
+- **Food** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#food)
+
+### G
+
+- **GET** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#get)
+- **GOOGLE_PLACES_API_KEY** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#google-places-api-key)
+- **GPT** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#gpt)
+- **Gate** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#gate)
+- **Generating** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#generating)
+- **Get** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#get)
+- **Gold** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#gold)
+- **Golden** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#golden)
+- **Google** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#google)
+- **Green** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#green)
+
+### H
+
+- **Here** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#here)
+- **Hiking** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#hiking)
+- **However** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#however)
+
+### I
+
+- **Italian** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#italian)
+
+### J
+
+- **JSON** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#json)
+- **John** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#john)
+
+### K
+
+- **Keep** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#keep)
+- **Key** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#key)
+
+### L
+
+- **LOCATION** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#location)
+- **Learn** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#learn)
+- **Leveraging** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#leveraging)
+- **Liked** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#liked)
+- **Lisa** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#lisa)
+
+### M
+
+- **Make** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#make)
+- **Mare** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#mare)
+- **Mona** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#mona)
+
+### N
+
+- **Nature** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#nature)
+- **New** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#new)
+
+### O
+
+- **OPENAI_API_KEY** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#openai-api-key)
+- **OpenAI** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#openai)
+- **Our** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#our)
+
+### P
+
+- **Park** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#park)
+- **Pizzas** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#pizzas)
+- **Place** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#place)
+- **Places** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#places)
+- **Please** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#please)
+- **Prepare** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#prepare)
+- **Profile** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#profile)
+- **Pyramid** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#pyramid)
+- **Python** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#python)
+
+### R
+
+- **RADIUS** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#radius)
+- **Reading** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#reading)
+- **Requesting** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#requesting)
+- **Response** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#response)
+- **Restaurant** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#restaurant)
+
+### S
+
+- **Setup** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#setup)
+- **Sotto** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#sotto)
+- **Split** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#split)
+- **Street** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#street)
+- **Sushi** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#sushi)
+
+### T
+
+- **TYPE** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#type)
+- **Trails** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#trails)
+- **Transamerica** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#transamerica)
+- **Turbo** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#turbo)
+
+### U
+
+- **URL** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#url)
+- **Understand** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#understand)
+- **Upon** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#upon)
+
+### Y
+
+- **York** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#york)
+- **You** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#you)
+- **Your** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#your)
+
+### A
+
+- **a** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#a)
+- **about** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#about)
+- **accepts** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#accepts)
+- **accommodation** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#accommodation)
+- **account** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#account)
+- **activates** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#activates)
+- **active_time** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#active-time)
+- **activities** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#activities)
+- **additional** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#additional)
+- **address** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#address)
+- **aiming** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#aiming)
+- **already** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#already)
+- **also** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#also)
+- **any** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#any)
+- **api** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#api)
+- **api_key** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#api-key)
+- **app** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#app)
+- **app_usage** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#app-usage)
+- **append** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#append)
+- **application** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#application)
+- **apply** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#apply)
+- **approach** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#approach)
+- **appropriate** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#appropriate)
+- **are** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#are)
+- **arguments** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#arguments)
+- **around** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#around)
+- **array** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#array)
+- **ask** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#ask)
+- **assistant** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#assistant)
+- **associated** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#associated)
+- **assume** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#assume)
+- **assumption** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#assumption)
+- **authenticate** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#authenticate)
+- **authuser** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#authuser)
+- **available** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#available)
+- **avoid** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#avoid)
+
+### B
+
+- **based** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#based)
+- **behavioral_metrics** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#behavioral-metrics)
+- **billing** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#billing)
+- **budget** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#budget)
+- **but** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#but)
+
+### C
+
+- **cafe** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#cafe)
+- **call** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#call)
+- **call_Q1mXIi7D6GhobfE4tkruX7nB** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#call-q1mxii7d6ghobfe4tkrux7nb)
+- **call_google_places_api** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#call-google-places-api)
+- **calling** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#calling)
+- **calls** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#calls)
+- **can** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#can)
+- **captures** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#captures)
+- **cases** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#cases)
+- **cell_type** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#cell-type)
+- **cells** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#cells)
+- **centered** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#centered)
+- **certain** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#certain)
+- **charges** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#charges)
+- **chat** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#chat)
+- **checks** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#checks)
+- **choices** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#choices)
+- **clarification** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#clarification)
+- **client** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#client)
+- **cloud** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#cloud)
+- **clubs** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#clubs)
+- **code** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#code)
+- **coded** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#coded)
+- **codemirror_mode** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#codemirror-mode)
+- **com** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#com)
+- **combination** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#combination)
+- **combines** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#combines)
+- **comma** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#comma)
+- **command** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#command)
+- **completions** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#completions)
+- **components** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#components)
+- **configured** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#configured)
+- **consist** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#consist)
+- **console** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#console)
+- **contains** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#contains)
+- **content** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#content)
+- **context** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#context)
+- **coordinates** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#coordinates)
+- **cost** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#cost)
+- **costs** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#costs)
+- **could** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#could)
+- **couldn** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#couldn)
+- **create** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#create)
+- **cues** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#cues)
+- **custom** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#custom)
+- **customer** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#customer)
+- **customer_profile** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#customer-profile)
+- **customer_profile_str** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#customer-profile-str)
+
+### D
+
+- **daily** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#daily)
+- **data** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#data)
+- **database** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#database)
+- **debugging** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#debugging)
+- **defined** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#defined)
+- **defining** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#defining)
+- **demo** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#demo)
+- **description** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#description)
+- **detailed** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#detailed)
+- **details** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#details)
+- **detection** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#detection)
+- **dining** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#dining)
+- **direct** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#direct)
+- **discovery** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#discovery)
+- **display_name** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#display-name)
+- **don** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#don)
+- **download** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#download)
+- **dumps** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#dumps)
+- **during** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#during)
+
+### E
+
+- **effectively** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#effectively)
+- **effectiveness** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#effectiveness)
+- **empty** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#empty)
+- **enhance** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#enhance)
+- **env** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#env)
+- **environ** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#environ)
+- **environment** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#environment)
+- **error** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#error)
+- **even** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#even)
+- **example** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#example)
+- **excel** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#excel)
+- **except** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#except)
+- **exceptions** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#exceptions)
+- **excluding** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#excluding)
+- **executed** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#executed)
+- **execution** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#execution)
+- **execution_count** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#execution-count)
+- **experiences** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#experiences)
+- **explore** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#explore)
+- **expressed** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#expressed)
+- **expresses** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#expresses)
+- **extracts** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#extracts)
+
+### F
+
+- **factors** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#factors)
+- **failed** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#failed)
+- **fails** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#fails)
+- **fake** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#fake)
+- **fashion** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#fashion)
+- **favourite_post_categories** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#favourite-post-categories)
+- **feeling** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#feeling)
+- **fetch_customer_profile** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#fetch-customer-profile)
+- **fetches** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#fetches)
+- **file_extension** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#file-extension)
+- **find** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#find)
+- **fine** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#fine)
+- **finish_reason** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#finish-reason)
+- **first** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#first)
+- **focus** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#focus)
+- **following** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#following)
+- **food** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#food)
+- **food_preference** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#food-preference)
+- **format** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#format)
+- **formulates** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#formulates)
+- **found** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#found)
+- **function_call** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#function-call)
+- **functions** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#functions)
+
+### G
+
+- **get** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#get)
+- **get_place_details** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#get-place-details)
+- **getenv** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#getenv)
+- **getting** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#getting)
+- **given** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#given)
+- **giving** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#giving)
+- **goes** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#goes)
+- **google** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#google)
+- **googleapis** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#googleapis)
+- **gpt** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#gpt)
+- **guest** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#guest)
+
+### H
+
+- **handle** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#handle)
+- **hard** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#hard)
+- **hardcoded** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#hardcoded)
+- **has** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#has)
+- **have** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#have)
+- **here** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#here)
+- **hesitate** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#hesitate)
+- **highly** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#highly)
+- **hotel** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#hotel)
+- **hotels** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#hotels)
+- **hours** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#hours)
+- **houses** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#houses)
+- **how** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#how)
+- **https** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#https)
+- **human** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#human)
+- **hungry** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#hungry)
+
+### I
+
+- **identifier** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#identifier)
+- **identify** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#identify)
+- **include** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#include)
+- **included** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#included)
+- **indicate** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#indicate)
+- **indirect** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#indirect)
+- **individual** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#individual)
+- **information** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#information)
+- **initial** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#initial)
+- **input** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#input)
+- **install** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#install)
+- **instance** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#instance)
+- **integrate** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#integrate)
+- **integration** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#integration)
+- **intent** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#intent)
+- **interactions** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#interactions)
+- **interacts** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#interacts)
+- **interest** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#interest)
+- **interested** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#interested)
+- **internal** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#internal)
+- **interpret** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#interpret)
+- **interpretation** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#interpretation)
+- **interpreted** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#interpreted)
+- **introduces** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#introduces)
+- **involves** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#involves)
+- **ipython** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#ipython)
+- **ipython3** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#ipython3)
+- **is** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#is)
+- **isn** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#isn)
+- **items** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#items)
+- **its** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#its)
+
+### J
+
+- **join** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#join)
+- **journey** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#journey)
+- **json** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#json)
+
+### K
+
+- **keep** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#keep)
+- **kernelspec** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#kernelspec)
+- **key** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#key)
+- **keyword** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#keyword)
+
+### L
+
+- **language** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#language)
+- **language_info** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#language-info)
+- **lat** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#lat)
+- **latitude** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#latitude)
+- **library** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#library)
+- **like** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#like)
+- **limit** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#limit)
+- **limited** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#limited)
+- **line** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#line)
+- **list** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#list)
+- **lng** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#lng)
+- **loads** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#loads)
+- **located** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#located)
+- **location** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#location)
+- **locations** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#locations)
+- **long** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#long)
+- **longitude** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#longitude)
+
+### M
+
+- **made** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#made)
+- **main** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#main)
+- **make** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#make)
+- **makes** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#makes)
+- **manage** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#manage)
+- **manner** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#manner)
+- **maps** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#maps)
+- **markdown** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#markdown)
+- **may** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#may)
+- **mention** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#mention)
+- **message** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#message)
+- **messages** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#messages)
+- **metadata** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#metadata)
+- **meters** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#meters)
+- **metrics** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#metrics)
+- **might** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#might)
+- **mimetype** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#mimetype)
+- **mock** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#mock)
+- **model** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#model)
+- **modify** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#modify)
+- **more** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#more)
+- **multiple** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#multiple)
+- **museum** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#museum)
+- **museums** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#museums)
+
+### N
+
+- **name** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#name)
+- **names** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#names)
+- **navigate** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#navigate)
+- **nbconvert_exporter** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#nbconvert-exporter)
+- **nbformat** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#nbformat)
+- **nbformat_minor** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#nbformat-minor)
+- **near** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#near)
+- **nearby** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#nearby)
+- **nearbysearch** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#nearbysearch)
+- **necessary** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#necessary)
+- **need** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#need)
+- **needed** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#needed)
+- **needs** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#needs)
+- **next** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#next)
+- **not** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#not)
+- **note** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#note)
+- **notebook** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#notebook)
+- **number** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#number)
+- **numerous** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#numerous)
+
+### O
+
+- **object** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#object)
+- **one** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#one)
+- **only** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#only)
+- **openai** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#openai)
+- **optional** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#optional)
+- **options** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#options)
+- **orig_nbformat** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#orig-nbformat)
+- **os** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#os)
+- **other** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#other)
+- **out** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#out)
+- **output** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#output)
+- **output_type** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#output-type)
+- **outputs** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#outputs)
+
+### P
+
+- **paid** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#paid)
+- **parameter** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#parameter)
+- **parameters** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#parameters)
+- **parks** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#parks)
+- **part** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#part)
+- **past** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#past)
+- **per** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#per)
+- **perceive** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#perceive)
+- **personal** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#personal)
+- **personalized** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#personalized)
+- **pip** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#pip)
+- **place** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#place)
+- **place_address** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#place-address)
+- **place_details** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#place-details)
+- **place_id** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#place-id)
+- **place_info** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#place-info)
+- **place_name** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#place-name)
+- **place_rating** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#place-rating)
+- **place_type** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#place-type)
+- **place_types** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#place-types)
+- **places** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#places)
+- **please** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#please)
+- **point_of_interest** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#point-of-interest)
+- **points** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#points)
+- **politely** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#politely)
+- **post** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#post)
+- **preferences** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#preferences)
+- **preferred** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#preferred)
+- **primary** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#primary)
+- **print** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#print)
+- **printed** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#printed)
+- **prints** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#prints)
+- **processes** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#processes)
+- **processing** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#processing)
+- **production** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#production)
+- **profile** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#profile)
+- **profiles** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#profiles)
+- **project** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#project)
+- **properties** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#properties)
+- **provide** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#provide)
+- **provide_user_specific_recommendations** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#provide-user-specific-recommendations)
+- **provides** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#provides)
+- **purposes** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#purposes)
+- **pygments_lexer** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#pygments-lexer)
+- **python** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#python)
+- **python3** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#python3)
+
+### R
+
+- **radius** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#radius)
+- **rank** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#rank)
+- **ranking** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#ranking)
+- **rating** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#rating)
+- **ratings** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#ratings)
+- **readable** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#readable)
+- **real** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#real)
+- **recent** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#recent)
+- **recent_interactions** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#recent-interactions)
+- **recent_searches** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#recent-searches)
+- **recognizing** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#recognizing)
+- **recommendations** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#recommendations)
+- **relevant** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#relevant)
+- **remember** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#remember)
+- **replace** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#replace)
+- **request** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#request)
+- **requests** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#requests)
+- **requirement** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#requirement)
+- **requirements** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#requirements)
+- **respond** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#respond)
+- **response** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#response)
+- **responses** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#responses)
+- **restaurant** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#restaurant)
+- **restaurants** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#restaurants)
+- **result** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#result)
+- **results** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#results)
+- **retrieve** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#retrieve)
+- **returned** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#returned)
+- **returns** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#returns)
+- **reviews** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#reviews)
+- **role** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#role)
+
+### S
+
+- **search** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#search)
+- **searches** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#searches)
+- **seeking** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#seeking)
+- **sending** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#sending)
+- **sends** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#sends)
+- **sent** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#sent)
+- **serves** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#serves)
+- **service** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#service)
+- **set** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#set)
+- **should** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#should)
+- **similar** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#similar)
+- **simulates** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#simulates)
+- **since** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#since)
+- **single** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#single)
+- **snippet** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#snippet)
+- **some** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#some)
+- **something** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#something)
+- **sophisticated** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#sophisticated)
+- **sorry** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#sorry)
+- **source** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#source)
+- **specialist** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#specialist)
+- **specific** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#specific)
+- **specified** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#specified)
+- **split** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#split)
+- **started** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#started)
+- **states** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#states)
+- **status** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#status)
+- **status_code** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#status-code)
+- **stdout** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#stdout)
+- **stream** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#stream)
+- **street_address** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#street-address)
+- **string** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#string)
+- **subtle** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#subtle)
+- **successful** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#successful)
+- **such** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#such)
+- **suitable** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#suitable)
+- **sure** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#sure)
+- **system** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#system)
+
+### T
+
+- **tailor** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#tailor)
+- **tailored** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#tailored)
+- **task** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#task)
+- **temperature** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#temperature)
+- **text** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#text)
+- **their** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#their)
+- **them** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#them)
+- **then** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#then)
+- **there** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#there)
+- **these** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#these)
+- **they** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#they)
+- **things** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#things)
+- **three** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#three)
+- **time** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#time)
+- **tired** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#tired)
+- **to** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#to)
+- **tool_calls** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#tool-calls)
+- **tools** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#tools)
+- **top** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#top)
+- **total** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#total)
+- **total_ratings** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#total-ratings)
+- **track** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#track)
+- **try** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#try)
+- **turbo** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#turbo)
+- **two** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#two)
+- **type** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#type)
+- **types** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#types)
+
+### U
+
+- **ultimately** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#ultimately)
+- **unclear** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#unclear)
+- **understand** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#understand)
+- **understood** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#understood)
+- **unexpected** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#unexpected)
+- **unique** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#unique)
+- **usage** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#usage)
+- **use** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#use)
+- **used** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#used)
+- **user** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#user)
+- **user1234** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#user1234)
+- **user_id** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#user-id)
+- **user_input** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#user-input)
+- **user_rank** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#user-rank)
+- **user_ratings_total** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#user-ratings-total)
+- **using** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#using)
+
+### V
+
+- **valid** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#valid)
+- **variable** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#variable)
+- **various** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#various)
+- **vary** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#vary)
+- **venues** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#venues)
+- **verify** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#verify)
+- **versatile** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#versatile)
+- **version** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#version)
+- **vicinity** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#vicinity)
+- **visit** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#visit)
+
+### W
+
+- **want** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#want)
+- **wants** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#wants)
+- **ways** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#ways)
+- **weary** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#weary)
+- **weekly** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#weekly)
+- **when** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#when)
+- **which** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#which)
+- **while** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#while)
+- **will** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#will)
+- **within** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#within)
+- **would** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#would)
+- **wrong** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#wrong)
+
+### Y
+
+- **you** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#you)
+- **your** → [docs](./Function_calling_finding_nearby_places.ipynb_docs.md#your)
+

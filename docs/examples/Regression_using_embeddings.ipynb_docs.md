@@ -1,0 +1,189 @@
+# Documentation: Regression_using_embeddings.ipynb
+
+## File Metadata
+- **Path**: `examples/Regression_using_embeddings.ipynb`
+- **Type**: .ipynb file
+- **Size**: 3,725 bytes (3.64 KB)
+- **Lines**: 120
+- **Words**: 392
+- **Characters**: 3,725
+
+## Original Source
+
+```json
+{
+ "cells": [
+  {
+   "attachments": {},
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Regression using the embeddings\n",
+    "\n",
+    "Regression means predicting a number, rather than one of the categories. We will predict the score based on the embedding of the review's text. We split the dataset into a training and a testing set for all of the following tasks, so we can realistically evaluate performance on unseen data. The dataset is created in the [Get_embeddings_from_dataset Notebook](Get_embeddings_from_dataset.ipynb).\n",
+    "\n",
+    "We're predicting the score of the review, which is a number between 1 and 5 (1-star being negative and 5-star positive)."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "text-embedding-3-small performance on 1k Amazon reviews: mse=0.65, mae=0.52\n"
+     ]
+    }
+   ],
+   "source": [
+    "import pandas as pd\n",
+    "import numpy as np\n",
+    "from ast import literal_eval\n",
+    "\n",
+    "from sklearn.ensemble import RandomForestRegressor\n",
+    "from sklearn.model_selection import train_test_split\n",
+    "from sklearn.metrics import mean_squared_error, mean_absolute_error\n",
+    "\n",
+    "datafile_path = \"data/fine_food_reviews_with_embeddings_1k.csv\"\n",
+    "\n",
+    "df = pd.read_csv(datafile_path)\n",
+    "df[\"embedding\"] = df.embedding.apply(literal_eval).apply(np.array)\n",
+    "\n",
+    "X_train, X_test, y_train, y_test = train_test_split(list(df.embedding.values), df.Score, test_size=0.2, random_state=42)\n",
+    "\n",
+    "rfr = RandomForestRegressor(n_estimators=100)\n",
+    "rfr.fit(X_train, y_train)\n",
+    "preds = rfr.predict(X_test)\n",
+    "\n",
+    "mse = mean_squared_error(y_test, preds)\n",
+    "mae = mean_absolute_error(y_test, preds)\n",
+    "\n",
+    "print(f\"text-embedding-3-small performance on 1k Amazon reviews: mse={mse:.2f}, mae={mae:.2f}\")\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Dummy mean prediction performance on Amazon reviews: mse=1.73, mae=1.03\n"
+     ]
+    }
+   ],
+   "source": [
+    "bmse = mean_squared_error(y_test, np.repeat(y_test.mean(), len(y_test)))\n",
+    "bmae = mean_absolute_error(y_test, np.repeat(y_test.mean(), len(y_test)))\n",
+    "print(\n",
+    "    f\"Dummy mean prediction performance on Amazon reviews: mse={bmse:.2f}, mae={bmae:.2f}\"\n",
+    ")\n"
+   ]
+  },
+  {
+   "attachments": {},
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "We can see that the embeddings are able to predict the scores with an average error of 0.53 per score prediction. This is roughly equivalent to predicting half of reviews perfectly, and half off by one star."
+   ]
+  },
+  {
+   "attachments": {},
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "You could also train a classifier to predict the label, or use the embeddings within an existing ML model to encode free text features."
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "openai",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.5"
+  },
+  "orig_nbformat": 4,
+  "vscode": {
+   "interpreter": {
+    "hash": "365536dcbde60510dc9073d6b991cd35db2d9bac356a11f5b64279a5e6708b97"
+   }
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
+
+```
+
+
+
+## High-Level Overview
+
+Jupyter Notebook containing interactive code cells and documentation.
+
+## Detailed Analysis
+
+File contains 120 lines with structured content.
+
+## Usage & Examples
+
+Open in Jupyter:
+
+```bash
+jupyter notebook Regression_using_embeddings.ipynb
+```
+
+## Performance & Security Notes
+
+No specific performance or security concerns identified.
+
+## Related Files
+
+**Same directory**:
+- [Assistants_API_overview_python.ipynb](./Assistants_API_overview_python.ipynb_docs.md)
+- [Build_a_coding_agent_with_GPT-5.1.ipynb](./Build_a_coding_agent_with_GPT-5.1.ipynb_docs.md)
+- [Chat_finetuning_data_prep.ipynb](./Chat_finetuning_data_prep.ipynb_docs.md)
+- [Classification_using_embeddings.ipynb](./Classification_using_embeddings.ipynb_docs.md)
+- [Clustering.ipynb](./Clustering.ipynb_docs.md)
+- [Clustering_for_transaction_classification.ipynb](./Clustering_for_transaction_classification.ipynb_docs.md)
+- [Code_search_using_embeddings.ipynb](./Code_search_using_embeddings.ipynb_docs.md)
+- [Context_summarization_with_realtime_api.ipynb](./Context_summarization_with_realtime_api.ipynb_docs.md)
+- [Creating_slides_with_Assistants_API_and_DALL-E3.ipynb](./Creating_slides_with_Assistants_API_and_DALL-E3.ipynb_docs.md)
+- [Custom-LLM-as-a-Judge.ipynb](./Custom-LLM-as-a-Judge.ipynb_docs.md)
+
+**Imported modules**:
+- `RandomForestRegressor`
+- `ast`
+- `literal_eval`
+- `mean_squared_error`
+- `numpy`
+- `pandas`
+- `sklearn.ensemble`
+- `sklearn.metrics`
+- `sklearn.model_selection`
+- `train_test_split`
+
+## Testing & Execution
+
+Execute cells sequentially in Jupyter environment.
+
+---
+*Generated by Repo Book Generator v1.0.0*

@@ -1,0 +1,20 @@
+# Documentation: woman_smiling.jpg
+
+## File Metadata
+- **Path**: `examples/imgs/woman_smiling.jpg`
+- **Type**: Binary file
+- **Size**: 111,483 bytes (108.87 KB)
+- **MIME Type**: image/jpeg
+- **Extension**: .jpg
+
+## Description
+This is a binary file that cannot be processed as text.
+
+## Suggested Handling
+- **Images** (png, jpg, etc.): View with image viewer
+- **Archives** (zip, tar.gz, etc.): Extract contents
+- **Compiled files** (pyc, so, dll, etc.): Generated artifacts
+- **Data files** (pkl, npy, h5, etc.): Load with appropriate library
+
+## Related Files
+*See folder index for related files in the same directory.*

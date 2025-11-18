@@ -1,0 +1,154 @@
+# Documentation: moxy_20191221_006_extracted.json
+
+## File Metadata
+- **Path**: `examples/data/hotel_invoices/extracted_invoice_json/moxy_20191221_006_extracted.json`
+- **Type**: .json file
+- **Size**: 3,264 bytes (3.19 KB)
+- **Lines**: 101
+- **Words**: 210
+- **Characters**: 3,264
+
+## Original Source
+
+```json
+[
+    {
+        "hotel_information": {
+            "name": "MOXY Frankfurt Airport",
+            "address": "Amelia-Mary-Earhart-Strasse 5, 60549 Frankfurt/Main",
+            "phone": "+49 (0) 69 96759119",
+            "email": "crew.frankfurtairport@moxyhotels.com",
+            "website": "www.moxyfrankfurtairport.com"
+        },
+        "guest_information": {
+            "name": "Jens Walter",
+            "company": "API Meister Consulting GmbH",
+            "address": "Friedrichstr. 123, 10117 Berlin, Germany",
+            "room_number": "305",
+            "arrival_date": "30.11.19",
+            "departure_date": "01.12.19",
+            "folio_number": "227638",
+            "confirmation_number": "8511510",
+            "cashier_number": "8370",
+            "invoice_date": "01.12.19"
+        },
+        "invoice_information": {
+            "date": "01.12.19",
+            "description": "INVOICE"
+        },
+        "charges": [
+            {
+                "date": "21.11.19",
+                "description": "Deposit Tax Transfer",
+                "debit_eur": null,
+                "credit_eur": "3.14"
+            },
+            {
+                "date": "30.11.19",
+                "description": "Accommodation",
+                "debit_eur": "48.00",
+                "credit_eur": null
+            },
+            {
+                "date": "30.11.19",
+                "description": "Deposit Transfer at C/I",
+                "debit_eur": null,
+                "credit_eur": "44.86"
+            }
+        ],
+        "deposit_information": [
+            {
+                "date": "21.11.19",
+                "deposit_folio_no": "225353",
+                "deposit_amount": "48.00",
+                "vat": "3.14"
+            }
+        ],
+        "totals": {
+            "total": "48.00",
+            "balance_to_pay": "0.00"
+        },
+        "vat_details": {
+            "total_incl_vat": {
+                "net_eur": "44.86",
+                "vat_eur": "3.14",
+                "gross_eur": "48.00"
+            },
+            "vat_7_percent": {
+                "net_eur": "44.86",
+                "vat_eur": "3.14",
+                "gross_eur": "48.00"
+            },
+            "deposit_7_percent": {
+                "net_eur": "44.86",
+                "vat_eur": "3.14",
+                "gross_eur": "-48.00"
+            }
+        },
+        "credit_card_details": {
+            "merchant_no": null,
+            "credit_card_no": "XXXXXXXXXXXX5052",
+            "expiry_date": "XX/XX",
+            "card_entry": null,
+            "verification": null,
+            "terminal_id": null,
+            "receipt_no": null,
+            "transaction_amount": "48.00",
+            "approval_code": "A1848003"
+        },
+        "signature": {
+            "card_holder": null
+        },
+        "entity_information": {
+            "name": "QMHotel Germany GmbH",
+            "chamber_of_commerce_number": "HRB 207980",
+            "registered_office": "MUNCHEN",
+            "fiscal_number": "143/317/7200",
+            "vat_id_number": "UId DE294499203",
+            "authorized_representative": "Rune Fring",
+            "bank": "NORDEA BANK AB",
+            "iban": "DE25 5143 0030 6869 0400 01",
+            "swift_code": "NDEADEFF"
+        }
+    }
+]
+```
+
+
+
+## High-Level Overview
+
+JSON data file containing structured configuration or data.
+
+## Detailed Analysis
+
+JSON structure (parsing details unavailable)
+
+## Usage & Examples
+
+See file content for usage details.
+
+## Performance & Security Notes
+
+No specific performance or security concerns identified.
+
+## Related Files
+
+**Same directory**:
+- [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md)
+- [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md)
+- [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md)
+- [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md)
+- [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md)
+- [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md)
+- [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md)
+- [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md)
+
+## Testing & Execution
+
+See project documentation for testing procedures.
+
+---
+*Generated by Repo Book Generator v1.0.0*

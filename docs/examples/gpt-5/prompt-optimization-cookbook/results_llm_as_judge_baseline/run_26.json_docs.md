@@ -1,0 +1,73 @@
+# Documentation: run_26.json
+
+## File Metadata
+- **Path**: `examples/gpt-5/prompt-optimization-cookbook/results_llm_as_judge_baseline/run_26.json`
+- **Type**: .json file
+- **Size**: 6,232 bytes (6.09 KB)
+- **Lines**: 16
+- **Words**: 871
+- **Characters**: 6,232
+
+## Original Source
+
+```json
+{
+  "file": "run_26.py",
+  "raw": "{\n  \"reasoning\": {\n    \"task_adherence\": \"- Reads and follows the core task: computes Top-K most frequent tokens from provided globals text and k, and assigns the result to top_k.\\n- Tokenization: Implements ASCII tokenization for [a-z0-9]+ by treating all non [A-Z a-z 0-9] chars as separators, and lowercasing only A-Z while scanning. This yields exactly the specified token set and casing. However, the instruction explicitly says to use a regex; the solution does not use a regex and instead implements manual scanning. While the result is equivalent, this deviates from the stated method.\\n- Sorting: Uses heapq.nsmallest with key (-count, token) which correctly produces items sorted by count descending then token ascending, as required, and avoids full sort (acceptable and efficient).\\n- Output format: Sets top_k to a list of (token, count) tuples. Length is min(k, number of unique tokens) due to nsmallest behavior. Correct.\\n- Edge cases: If k <= 0, _top_k_from_counts returns []; negative k is clamped to 0. If counts empty, returns []. All match requirement 3.\\n- Inputs handling: Does not reassign text or k. Copies them into _text and _k safely, attempts int conversion of k, and clamps negatives. This is compatible with the contract. The fallback to defaults if globals are missing is harmless given the problem states they are provided.\\n- No I/O or network: No input(), file, or network usage. No printing (which is optional).\\n- Tie ordering: Does not rely on Counter.most_common; implements explicit sort key. Satisfies the note.\\n- Summary: All functional requirements are met; only deviation is not using a regex for tokenization as explicitly requested.\",\n    \"code_quality\": \"- Correctness: The tokenization logic matches the ASCII [a-z0-9]+ spec and lowercases A-Z. Counting and Top-K selection are correct. Edge cases handled.\\n- Efficiency: Single pass tokenization; Top-K via heapq.nsmallest gives O(n log k). Efficient.\\n- Readability/Maintainability: The manual ord/chr checks and micro-optimizations (caching append/clear/get) trade clarity for speed. A regex-based tokenizer would be shorter and clearer per the instruction. Nonetheless, the function has a clear comment describing behavior.\\n- Structure: Well-factored into two helper functions. Minimal global interaction. Reasonable variable naming and scoping.\\n- Best practices: Avoids unnecessary full sort; avoids reliance on unspecified tie ordering. Broad exception while casting k is acceptable in this context but could be narrowed. Partial type hints are provided; return types not annotated.\\n- No apparent bugs or edge-case failures identified.\"\n  },\n  \"final_judgement\": {\n    \"adherence_score\": 4,\n    \"code_quality_score\": 4,\n    \"comments\": \"Functionally correct and efficient implementation that meets sorting, output, and edge-case requirements. The main miss is not using a regex for tokenization as explicitly requested, and the manual ASCII scanning reduces readability compared to a regex-based approach. Otherwise, solid solution.\"\n  }\n}",
+  "parsed": {
+    "reasoning": {
+      "task_adherence": "- Reads and follows the core task: computes Top-K most frequent tokens from provided globals text and k, and assigns the result to top_k.\n- Tokenization: Implements ASCII tokenization for [a-z0-9]+ by treating all non [A-Z a-z 0-9] chars as separators, and lowercasing only A-Z while scanning. This yields exactly the specified token set and casing. However, the instruction explicitly says to use a regex; the solution does not use a regex and instead implements manual scanning. While the result is equivalent, this deviates from the stated method.\n- Sorting: Uses heapq.nsmallest with key (-count, token) which correctly produces items sorted by count descending then token ascending, as required, and avoids full sort (acceptable and efficient).\n- Output format: Sets top_k to a list of (token, count) tuples. Length is min(k, number of unique tokens) due to nsmallest behavior. Correct.\n- Edge cases: If k <= 0, _top_k_from_counts returns []; negative k is clamped to 0. If counts empty, returns []. All match requirement 3.\n- Inputs handling: Does not reassign text or k. Copies them into _text and _k safely, attempts int conversion of k, and clamps negatives. This is compatible with the contract. The fallback to defaults if globals are missing is harmless given the problem states they are provided.\n- No I/O or network: No input(), file, or network usage. No printing (which is optional).\n- Tie ordering: Does not rely on Counter.most_common; implements explicit sort key. Satisfies the note.\n- Summary: All functional requirements are met; only deviation is not using a regex for tokenization as explicitly requested.",
+      "code_quality": "- Correctness: The tokenization logic matches the ASCII [a-z0-9]+ spec and lowercases A-Z. Counting and Top-K selection are correct. Edge cases handled.\n- Efficiency: Single pass tokenization; Top-K via heapq.nsmallest gives O(n log k). Efficient.\n- Readability/Maintainability: The manual ord/chr checks and micro-optimizations (caching append/clear/get) trade clarity for speed. A regex-based tokenizer would be shorter and clearer per the instruction. Nonetheless, the function has a clear comment describing behavior.\n- Structure: Well-factored into two helper functions. Minimal global interaction. Reasonable variable naming and scoping.\n- Best practices: Avoids unnecessary full sort; avoids reliance on unspecified tie ordering. Broad exception while casting k is acceptable in this context but could be narrowed. Partial type hints are provided; return types not annotated.\n- No apparent bugs or edge-case failures identified."
+    },
+    "final_judgement": {
+      "adherence_score": 4,
+      "code_quality_score": 4,
+      "comments": "Functionally correct and efficient implementation that meets sorting, output, and edge-case requirements. The main miss is not using a regex for tokenization as explicitly requested, and the manual ASCII scanning reduces readability compared to a regex-based approach. Otherwise, solid solution."
+    }
+  },
+  "parse_error": null
+}
+```
+
+
+
+## High-Level Overview
+
+JSON data file containing structured configuration or data.
+
+## Detailed Analysis
+
+**Top-level keys**: file, raw, parsed, parse_error
+
+## Usage & Examples
+
+See file content for usage details.
+
+## Performance & Security Notes
+
+📊 **Performance**: Contains nested loops - consider complexity
+
+## Related Files
+
+**Same directory**:
+- [judgement_summary.csv](./judgement_summary.csv_docs.md)
+- [run_01.json](./run_01.json_docs.md)
+- [run_02.json](./run_02.json_docs.md)
+- [run_03.json](./run_03.json_docs.md)
+- [run_04.json](./run_04.json_docs.md)
+- [run_05.json](./run_05.json_docs.md)
+- [run_06.json](./run_06.json_docs.md)
+- [run_07.json](./run_07.json_docs.md)
+- [run_08.json](./run_08.json_docs.md)
+- [run_09.json](./run_09.json_docs.md)
+
+**Imported modules**:
+- `provided`
+- `the`
+
+## Testing & Execution
+
+See project documentation for testing procedures.
+
+---
+*Generated by Repo Book Generator v1.0.0*

@@ -1,0 +1,73 @@
+# Documentation: run_14.json
+
+## File Metadata
+- **Path**: `examples/gpt-5/prompt-optimization-cookbook/results_llm_as_judge_baseline/run_14.json`
+- **Type**: .json file
+- **Size**: 7,706 bytes (7.53 KB)
+- **Lines**: 16
+- **Words**: 1,079
+- **Characters**: 7,706
+
+## Original Source
+
+```json
+{
+  "file": "run_14.py",
+  "raw": "{\n  \"reasoning\": {\n    \"task_adherence\": \"Step-by-step adherence check:\\n- Inputs/globals: The code reads from globals `text` and `k` and does not reassign them. It wraps the access in a try/except NameError and sets `top_k = []` if globals are missing. With provided globals (as per task), it uses them directly. This adheres to the input constraints.\\n- Tokenization: The tokenizer `_iter_ascii_tokens` lowercases ASCII A-Z by bitwise OR 32 and accepts only ASCII letters/digits [a-z0-9], treating all other characters (including non-ASCII) as separators. This matches the specified token definition and lowercasing behavior. The instruction suggests using a regex, but the implemented manual tokenizer produces equivalent behavior. This is a minor deviation from the suggested implementation style but not from the functional spec.\\n- Sorting: Uses `heapq.nsmallest(kk, counts.items(), key=lambda it: (-it[1], it[0]))`, which effectively returns items sorted by count descending (via negative count) and token ascending, matching requirement (1). Since `nsmallest` returns a sorted list by the key, the resulting order satisfies the contract.\\n- Top-K and length: It computes `kk = min(int(k), len(counts))` and returns exactly `kk` items, fulfilling requirement (2).\\n- Edge cases: If `k` cannot be cast to int or `k <= 0`, it returns `[]`, satisfying requirement (3). If the text yields no tokens, it also returns `[]`, which is consistent with `min(k, 0) = 0`.\\n- No I/O: There is no input(), file I/O, or network access. Satisfies requirement (4).\\n- Output contract: At the end, `top_k` is defined as a list of `(token, count)` tuples. No extraneous printing. Meets the contract.\\n- Tie-ordering and Counter: Does not rely on Counter.most_common; uses explicit key ordering as required.\\nAmbiguity consideration: The parenthetical \\\"use a regex\\\" could be read as a strict requirement or a suggestion. The code does not use a regex but achieves the exact specified tokenization, which is a reasonable and correct choice; thus, at most a minor stylistic deviation.\",\n    \"code_quality\": \"Code quality assessment:\\n- Correctness: Tokenization correctly handles ASCII rules, lowercases A-Z, treats all other chars as separators, and flushes buffers at boundaries and at end. Counting and Top-K selection are correct, and sorting by (-count, token) is implemented via `heapq.nsmallest` with an appropriate key.\\n- Clarity/Readability: Functions are small, well-named, and commented. The use of `ord` and bitwise OR (o | 32) is efficient but slightly less readable than `ch.lower()` or a regex; comments mitigate this. Overall readable.\\n- Efficiency: Single pass tokenization and counting O(n). Selection via `heapq.nsmallest` is O(n log k) and returns sorted output, which is efficient for large n and small k. For k near n, complexity is similar to sorting, which is acceptable.\\n- Structure/Maintainability: Helpers are modular. Minimal global interaction. No reliance on unspecified tie-breaking. Edge cases handled cleanly.\\n- Best practices: Avoids unnecessary I/O. Does not mutate provided globals. Uses local variable caching (`get = counts.get`) for micro-optimization. The fallback `try/except NameError` to define `top_k` is harmless and ensures `top_k` is always defined.\\nNo bugs or inefficiencies identified; only a minor readability note regarding bitwise lowercase and the choice not to use regex.\"\n  },\n  \"final_judgement\": {\n    \"adherence_score\": 4,\n    \"code_quality_score\": 5,\n    \"comments\": \"Functionally excellent and meets all requirements, including sorting, edge cases, and output format. Minor deviation: does not use a regex for tokenization as suggested, though behavior matches the spec exactly. Code is clean, efficient, and maintainable.\"\n  }\n}",
+  "parsed": {
+    "reasoning": {
+      "task_adherence": "Step-by-step adherence check:\n- Inputs/globals: The code reads from globals `text` and `k` and does not reassign them. It wraps the access in a try/except NameError and sets `top_k = []` if globals are missing. With provided globals (as per task), it uses them directly. This adheres to the input constraints.\n- Tokenization: The tokenizer `_iter_ascii_tokens` lowercases ASCII A-Z by bitwise OR 32 and accepts only ASCII letters/digits [a-z0-9], treating all other characters (including non-ASCII) as separators. This matches the specified token definition and lowercasing behavior. The instruction suggests using a regex, but the implemented manual tokenizer produces equivalent behavior. This is a minor deviation from the suggested implementation style but not from the functional spec.\n- Sorting: Uses `heapq.nsmallest(kk, counts.items(), key=lambda it: (-it[1], it[0]))`, which effectively returns items sorted by count descending (via negative count) and token ascending, matching requirement (1). Since `nsmallest` returns a sorted list by the key, the resulting order satisfies the contract.\n- Top-K and length: It computes `kk = min(int(k), len(counts))` and returns exactly `kk` items, fulfilling requirement (2).\n- Edge cases: If `k` cannot be cast to int or `k <= 0`, it returns `[]`, satisfying requirement (3). If the text yields no tokens, it also returns `[]`, which is consistent with `min(k, 0) = 0`.\n- No I/O: There is no input(), file I/O, or network access. Satisfies requirement (4).\n- Output contract: At the end, `top_k` is defined as a list of `(token, count)` tuples. No extraneous printing. Meets the contract.\n- Tie-ordering and Counter: Does not rely on Counter.most_common; uses explicit key ordering as required.\nAmbiguity consideration: The parenthetical \"use a regex\" could be read as a strict requirement or a suggestion. The code does not use a regex but achieves the exact specified tokenization, which is a reasonable and correct choice; thus, at most a minor stylistic deviation.",
+      "code_quality": "Code quality assessment:\n- Correctness: Tokenization correctly handles ASCII rules, lowercases A-Z, treats all other chars as separators, and flushes buffers at boundaries and at end. Counting and Top-K selection are correct, and sorting by (-count, token) is implemented via `heapq.nsmallest` with an appropriate key.\n- Clarity/Readability: Functions are small, well-named, and commented. The use of `ord` and bitwise OR (o | 32) is efficient but slightly less readable than `ch.lower()` or a regex; comments mitigate this. Overall readable.\n- Efficiency: Single pass tokenization and counting O(n). Selection via `heapq.nsmallest` is O(n log k) and returns sorted output, which is efficient for large n and small k. For k near n, complexity is similar to sorting, which is acceptable.\n- Structure/Maintainability: Helpers are modular. Minimal global interaction. No reliance on unspecified tie-breaking. Edge cases handled cleanly.\n- Best practices: Avoids unnecessary I/O. Does not mutate provided globals. Uses local variable caching (`get = counts.get`) for micro-optimization. The fallback `try/except NameError` to define `top_k` is harmless and ensures `top_k` is always defined.\nNo bugs or inefficiencies identified; only a minor readability note regarding bitwise lowercase and the choice not to use regex."
+    },
+    "final_judgement": {
+      "adherence_score": 4,
+      "code_quality_score": 5,
+      "comments": "Functionally excellent and meets all requirements, including sorting, edge cases, and output format. Minor deviation: does not use a regex for tokenization as suggested, though behavior matches the spec exactly. Code is clean, efficient, and maintainable."
+    }
+  },
+  "parse_error": null
+}
+```
+
+
+
+## High-Level Overview
+
+JSON data file containing structured configuration or data.
+
+## Detailed Analysis
+
+**Top-level keys**: file, raw, parsed, parse_error
+
+## Usage & Examples
+
+See file content for usage details.
+
+## Performance & Security Notes
+
+📊 **Performance**: Contains nested loops - consider complexity
+
+## Related Files
+
+**Same directory**:
+- [judgement_summary.csv](./judgement_summary.csv_docs.md)
+- [run_01.json](./run_01.json_docs.md)
+- [run_02.json](./run_02.json_docs.md)
+- [run_03.json](./run_03.json_docs.md)
+- [run_04.json](./run_04.json_docs.md)
+- [run_05.json](./run_05.json_docs.md)
+- [run_06.json](./run_06.json_docs.md)
+- [run_07.json](./run_07.json_docs.md)
+- [run_08.json](./run_08.json_docs.md)
+- [run_09.json](./run_09.json_docs.md)
+
+**Imported modules**:
+- `globals`
+- `the`
+
+## Testing & Execution
+
+See project documentation for testing procedures.
+
+---
+*Generated by Repo Book Generator v1.0.0*

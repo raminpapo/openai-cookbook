@@ -1,0 +1,761 @@
+# Aggregated Keywords: extracted_invoice_json
+
+**Path**: `examples/data/hotel_invoices/extracted_invoice_json`
+**Total Unique Keywords**: 610
+
+## Keywords A-Z
+
+### 1
+
+- **11**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+
+### A
+
+- **A1848003**: [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **A311243**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md)
+- **ADVANCE**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md)
+- **ADVANCED**: [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **AGB**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md), [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **ANPE**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md)
+- **API**: [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **APIMEISTER**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md), [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+- **APIMeister**: [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md)
+- **APImeiser**: [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md)
+- **APImeiseter**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md), [madison-493304_extracted.json](./madison-493304_extracted.json_docs.md), [madison_497810_extracted.json](./madison_497810_extracted.json_docs.md) ... (6 total)
+- **APImeisler**: [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **APImeisster**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md)
+- **APImeleister**: [madison-490969_extracted.json](./madison-490969_extracted.json_docs.md)
+- **APMEISTER**: [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **APMeister**: [madison-5036666_extracted.json](./madison-5036666_extracted.json_docs.md), [madison_folio_g_cp_efolio5895702_extracted.json](./madison_folio_g_cp_efolio5895702_extracted.json_docs.md), [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md), [madison_folio_g_cp_efolio5991896_extracted.json](./madison_folio_g_cp_efolio5991896_extracted.json_docs.md)
+- **APT**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **APfmeister**: [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md)
+- **APimeister**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison-496987_extracted.json](./madison-496987_extracted.json_docs.md)
+- **Abreise**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md), [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+- **Abreisedatum**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **Accommodation**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **Account**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **Address**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (16 total)
+- **Advance**: [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **Agent**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md), [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Airport**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **Amelia**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **Amount**: [madison_497810_extracted.json](./madison_497810_extracted.json_docs.md), [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **Amtsgericht**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **Ankunft**: [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+- **Anreise**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Anreisedatum**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **Apartment**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **Apimeister**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md), [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md), [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **Arrival**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md), [madison-490969_extracted.json](./madison-490969_extracted.json_docs.md) ... (9 total)
+- **Aufenthalt**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **Authorization**: [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md)
+
+### B
+
+- **BALANCE**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md)
+- **BANK**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **BERLIN**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **BESCHREIBUNG**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **BIC**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (19 total)
+- **BLZ**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (10 total)
+- **BREAKFAST**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **BRUTTO**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **B_VAT_7**: [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **Bad**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **Balance**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **Bank**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (13 total)
+- **Bargeld**: [madison_folio_g_cp_efolio5895702_extracted.json](./madison_folio_g_cp_efolio5895702_extracted.json_docs.md)
+- **Bediener**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **Bedroom**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **Belastung**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (10 total)
+- **Belastungen**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **Beleg**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (10 total)
+- **Berlin**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (27 total)
+- **Beschreibung**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (11 total)
+- **Best**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md), [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **Bestpreis**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Besuch**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **Betrag**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (13 total)
+- **Betreibs**: [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **Betriebes**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md)
+- **Bezeichnung**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Bochum**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **Brandt**: [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+- **Breakfast**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **Brutto**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md), [madison-490969_extracted.json](./madison-490969_extracted.json_docs.md) ... (12 total)
+- **Buchungsnummer**: [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+
+### C
+
+- **CANCELLATION**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md)
+- **CARD**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md)
+- **CHARGE**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md)
+- **CHECK**: [madison-496987_extracted.json](./madison-496987_extracted.json_docs.md)
+- **COBADEFFXXX**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **CONSULTING**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md), [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+- **CREDIT**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **Cannstatt**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **Card**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **Centre**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **Charge**: [madison-5036666_extracted.json](./madison-5036666_extracted.json_docs.md)
+- **Charges**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (16 total)
+- **Check**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [madison-5036666_extracted.json](./madison-5036666_extracted.json_docs.md), [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **Citadines**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **City**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md), [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md) ... (6 total)
+- **Commerzbank**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **Company**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (12 total)
+- **Consulting**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (25 total)
+- **Contact**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (13 total)
+- **Countries**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **Credit**: [madison-5036666_extracted.json](./madison-5036666_extracted.json_docs.md)
+- **Currency**: [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison_497810_extracted.json](./madison_497810_extracted.json_docs.md)
+
+### D
+
+- **DATUM**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **DE118**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (18 total)
+- **DE23**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md)
+- **DE25**: [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **DE258996336**: [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md)
+- **DE259895536**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md)
+- **DE259895636**: [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **DE259965636**: [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md)
+- **DE259985536**: [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md)
+- **DE27500400000385712500**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **DE289859636**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md)
+- **DE294499203**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **DE40**: [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md)
+- **DE48**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490969_extracted.json](./madison-490969_extracted.json_docs.md) ... (12 total)
+- **DE49**: [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md)
+- **DE84**: [madison-496987_extracted.json](./madison-496987_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md)
+- **DEBIT**: [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **DEPOSIT**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **DREIDRICHSTR**: [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **Daniel**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Dank**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **Date**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (12 total)
+- **Datum**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (12 total)
+- **Debit**: [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **Departure**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md), [madison-490969_extracted.json](./madison-490969_extracted.json_docs.md) ... (9 total)
+- **Deposit**: [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md), [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md), [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **Description**: [madison-5036666_extracted.json](./madison-5036666_extracted.json_docs.md), [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **Detail**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md), [madison-490969_extracted.json](./madison-490969_extracted.json_docs.md) ... (7 total)
+- **Details**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [madison_497810_extracted.json](./madison_497810_extracted.json_docs.md), [madison_folio_g_cp_efolio5895702_extracted.json](./madison_folio_g_cp_efolio5895702_extracted.json_docs.md)
+- **Deutschland**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md), [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md), [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md), [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+- **Devisen**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+
+### E
+
+- **ERLO**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md)
+- **EUR**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (14 total)
+- **EURO**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **Earhart**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **Einfach**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md), [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Einzelpreis**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Email**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (14 total)
+- **Entlastung**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (10 total)
+- **Erhard**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+
+### F
+
+- **FEBA**: [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md)
+- **FRIEDRICHSR**: [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md)
+- **FRIEDRICHSTR**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **Fax**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (14 total)
+- **Finanzamt**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (14 total)
+- **Firing**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md)
+- **Frankfurt**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md), [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **Friedrichstr**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (21 total)
+- **Friedrichstrasse**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md), [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md), [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md), [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md) ... (6 total)
+- **Fring**: [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **Front**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md), [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md), [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+
+### G
+
+- **GABC015452127**: [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+- **GABC19014325**: [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+- **GABR15867**: [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+- **GARO**: [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md)
+- **GERMANY**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **GMBH**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **GUEST**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **Gahm**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **Genehmigter**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (9 total)
+- **Genehmigungscode**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490969_extracted.json](./madison-490969_extracted.json_docs.md) ... (9 total)
+- **Genehmigungsnr**: [madison_497810_extracted.json](./madison_497810_extracted.json_docs.md)
+- **Genehmigungsnummer**: [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md)
+- **Germany**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md), [madison-5036666_extracted.json](./madison-5036666_extracted.json_docs.md), [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md) ... (10 total)
+- **Gesamt**: [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+- **Gesamtpreis**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **GmbH**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (27 total)
+- **Golombiewski**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **Gross**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **Guest**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (17 total)
+
+### H
+
+- **H0707**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **HA007**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **HAMBURG**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md) ... (6 total)
+- **HRB**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md) ... (21 total)
+- **HYVEDEMM300**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (18 total)
+- **Hadad**: [madison-5036666_extracted.json](./madison-5036666_extracted.json_docs.md)
+- **Hamburg**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (25 total)
+- **Hampton**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **Handelsregister**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md)
+- **Hauptbahnhof**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Head**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (16 total)
+- **Heald**: [madison_497810_extracted.json](./madison_497810_extracted.json_docs.md)
+- **Heimreise**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **Herr**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (21 total)
+- **Herrn**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **Hilton**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **Hotel**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (24 total)
+- **Hotline**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **HypoVereinsbank**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (18 total)
+
+### I
+
+- **IBAN**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (19 total)
+- **IFC**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (17 total)
+- **INVOICE**: [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **IWINKING**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **Ich**: [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md)
+- **IdNr**: [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md)
+- **Ihnen**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **Ihr**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **Ihren**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **Information**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (16 total)
+- **Inn**: [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+- **Instructions**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **Invoice**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (16 total)
+- **Items**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+
+### J
+
+- **JAS**: [madison-490969_extracted.json](./madison-490969_extracted.json_docs.md)
+- **JENS**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **JONER**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md)
+- **Jens**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (24 total)
+
+### K
+
+- **KUE**: [madison-493304_extracted.json](./madison-493304_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md)
+- **Karten**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Kartenfolgenummer**: [madison-5036666_extracted.json](./madison-5036666_extracted.json_docs.md)
+- **Karteninhabers**: [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md)
+- **Kartennummer**: [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-493304_extracted.json](./madison-493304_extracted.json_docs.md), [madison_497810_extracted.json](./madison_497810_extracted.json_docs.md)
+- **Kartenunternehmen**: [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md)
+- **Kleinertz**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (18 total)
+- **Konto**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (8 total)
+- **Kostenlose**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Kreditkartendetails**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md), [madison-493304_extracted.json](./madison-493304_extracted.json_docs.md) ... (6 total)
+- **Kreditkarteninstitut**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [madison-490969_extracted.json](./madison-490969_extracted.json_docs.md), [madison-496987_extracted.json](./madison-496987_extracted.json_docs.md), [madison-5036666_extracted.json](./madison-5036666_extracted.json_docs.md)
+- **Kreditkartennr**: [madison-496987_extracted.json](./madison-496987_extracted.json_docs.md)
+- **Kreditkartennummer**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md), [madison-490969_extracted.json](./madison-490969_extracted.json_docs.md)
+- **Kundereferenz**: [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+
+### L
+
+- **LBE**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison-496987_extracted.json](./madison-496987_extracted.json_docs.md)
+- **Leistungen**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Lodging**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **Logis**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md), [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Ludwig**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+
+### M
+
+- **MACH**: [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **MADISON**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (18 total)
+- **MOXY**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **MUNCHEN**: [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **MWST**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Maik**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md)
+- **Main**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md), [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **Manager**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **Mariles**: [madison-493304_extracted.json](./madison-493304_extracted.json_docs.md)
+- **Markies**: [madison-490969_extracted.json](./madison-490969_extracted.json_docs.md)
+- **Marlies**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (14 total)
+- **Martelock**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Martens**: [madison_497810_extracted.json](./madison_497810_extracted.json_docs.md)
+- **Martins**: [madison-5036666_extracted.json](./madison-5036666_extracted.json_docs.md)
+- **Mary**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **Massenbergstrasse**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **Mastercard**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (22 total)
+- **Meister**: [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **Menge**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Mercure**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **Method**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **Michel**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **Mitte**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (15 total)
+- **Motel**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md), [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md), [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **MwSt**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md) ... (14 total)
+- **Mwst**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+
+### N
+
+- **NDEADEFF**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **NETTO**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **NORDEA**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **NUDX**: [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **NUX**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md)
+- **Name**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (16 total)
+- **Net**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **Netto**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md), [madison-490969_extracted.json](./madison-490969_extracted.json_docs.md) ... (12 total)
+- **Nordkanalstrasse**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **Number**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md), [madison-493304_extracted.json](./madison-493304_extracted.json_docs.md) ... (9 total)
+
+### O
+
+- **Offener**: [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+- **Office**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md), [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md), [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **One**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md), [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md), [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Operator**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **Other**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+
+### P
+
+- **POE**: [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md)
+- **Page**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (11 total)
+- **Payment**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (12 total)
+- **Payments**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md), [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Pfmeister**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md)
+- **Phone**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (15 total)
+- **Premier**: [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+- **Price**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md), [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **Public**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+
+### Q
+
+- **QMHotel**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **Quantity**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+
+### R
+
+- **RIL**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [madison_497810_extracted.json](./madison_497810_extracted.json_docs.md), [madison_folio_g_cp_efolio5895702_extracted.json](./madison_folio_g_cp_efolio5895702_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md)
+- **ROOM**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **Rate**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md), [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+- **Rechnungs**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490969_extracted.json](./madison-490969_extracted.json_docs.md), [madison_folio_g_cp_efolio5895702_extracted.json](./madison_folio_g_cp_efolio5895702_extracted.json_docs.md)
+- **Rechnungsadresse**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **Rechnungsbetrag**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md), [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+- **Rechnungsdatum**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md), [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+- **Rechnungsnr**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **Rechnungsnummer**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md), [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+- **Reference**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **Referenznummer**: [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+- **Register**: [madison-493304_extracted.json](./madison-493304_extracted.json_docs.md), [madison-496987_extracted.json](./madison-496987_extracted.json_docs.md)
+- **Reservation**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **Reservierungsnr**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **Reservierungsnummer**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Room**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (12 total)
+- **Rune**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+
+### S
+
+- **SMA**: [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md)
+- **SPLIT**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **STAYING**: [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **Saldo**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md), [madison-490969_extracted.json](./madison-490969_extracted.json_docs.md) ... (11 total)
+- **Sarah**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **Satz**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Schaarsteinweg**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490969_extracted.json](./madison-490969_extracted.json_docs.md) ... (10 total)
+- **Schaartinsweg**: [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md)
+- **Schaartorstieg**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md)
+- **Schaartseineweg**: [madison_folio_g_cp_efolio5895702_extracted.json](./madison_folio_g_cp_efolio5895702_extracted.json_docs.md)
+- **Schaartvenweg**: [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md)
+- **Sebastian**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **Seite**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **Services**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **Signature**: [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md)
+- **Source**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (31 total)
+- **Steuer**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Steuernummer**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (11 total)
+- **Steuersatz**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Str**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **Strasse**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **Stuttgart**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **Summary**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (12 total)
+- **Summe**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **Support**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md), [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Swift**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+
+### T
+
+- **TARO**: [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **THANK**: [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **Tax**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [madison-5036666_extracted.json](./madison-5036666_extracted.json_docs.md), [madison_497810_extracted.json](./madison_497810_extracted.json_docs.md), [madison_folio_g_cp_efolio5895702_extracted.json](./madison_folio_g_cp_efolio5895702_extracted.json_docs.md), [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md) ... (8 total)
+- **Taxes**: [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md), [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **Terminal**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (10 total)
+- **Thomas**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (18 total)
+- **Tiergarten**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **Title**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **Total**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (13 total)
+- **Transaktionsbetrag**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md), [madison-490969_extracted.json](./madison-490969_extracted.json_docs.md) ... (9 total)
+- **Transaktionscode**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md)
+- **Transfer**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **Typ**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+
+### U
+
+- **UID**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md)
+- **UId**: [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **USt**: [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md)
+- **Uhrzeit**: [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+- **Umsatzsteuer**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md), [madison-490969_extracted.json](./madison-490969_extracted.json_docs.md) ... (7 total)
+- **Unit**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **Unterschrift**: [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md)
+- **Urania**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **User**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (11 total)
+
+### V
+
+- **VAT**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md) ... (16 total)
+- **VAT_ID**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md), [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md) ... (6 total)
+- **VAT_amount_EUR**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **VAT_at_19**: [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **VAT_at_7**: [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **VAT_gross_EUR**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **VAT_information**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **VAT_invoice**: [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **VAT_invoice_number**: [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md)
+- **Verfallsdatum**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (9 total)
+- **Vertragsnummer**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md)
+- **Vertragspartner**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md)
+- **Vertragspartnernummer**: [madison-5036666_extracted.json](./madison-5036666_extracted.json_docs.md)
+- **Vielen**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **Vorgangsnummer**: [madison-490969_extracted.json](./madison-490969_extracted.json_docs.md), [madison_497810_extracted.json](./madison_497810_extracted.json_docs.md)
+
+### W
+
+- **WALTER**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **WLAN**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md), [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Walter**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (25 total)
+- **Website**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md) ... (14 total)
+- **Willy**: [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+- **Wir**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+
+### X
+
+- **XXXX**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [madison-490969_extracted.json](./madison-490969_extracted.json_docs.md), [madison-496987_extracted.json](./madison-496987_extracted.json_docs.md), [madison-5036666_extracted.json](./madison-5036666_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md) ... (7 total)
+- **XXXX000000000XX5052**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md)
+- **XXXXXX**: [madison-490969_extracted.json](./madison-490969_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md)
+- **XXXXXXXXXXXX0502**: [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md)
+- **XXXXXXXXXXXX2825**: [madison_497810_extracted.json](./madison_497810_extracted.json_docs.md)
+- **XXXXXXXXXXXX5052**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md), [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **XXXXXXXXXXXX5502**: [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md)
+
+### Y
+
+- **YOU**: [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+
+### Z
+
+- **Zahlung**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md), [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+- **Zahlungen**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md), [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Zahlungsart**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **Zentrum**: [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+- **Zimmer**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md), [premierinn_GABCI19014325_extracted.json](./premierinn_GABCI19014325_extracted.json_docs.md)
+
+### A
+
+- **accor**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **accorhotels**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **account_number**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md) ... (6 total)
+- **address**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md), [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md) ... (15 total)
+- **adult**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md)
+- **adult_child**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md)
+- **adults**: [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **adults_children**: [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **agent**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **amount**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md), [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **amount_EUR**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **amount_currency**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **anderen**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **appr_code**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **approval_amount**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md) ... (7 total)
+- **approval_code**: [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md) ... (9 total)
+- **approval_date**: [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md)
+- **approval_number**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md)
+- **approval_time**: [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md)
+- **approved_amount**: [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md)
+- **arrival**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **arrival_date**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md), [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md) ... (7 total)
+- **auf**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **aus**: [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **authorisiere**: [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md)
+- **authorization_code**: [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md), [madison_folio_g_cp_efolio5991896_extracted.json](./madison_folio_g_cp_efolio5991896_extracted.json_docs.md)
+- **authorized_representative**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+
+### B
+
+- **b_vat_7**: [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md)
+- **balance**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md), [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md) ... (8 total)
+- **balance_amount**: [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **balance_due**: [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md)
+- **balance_to_pay**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md), [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **bank**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md), [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md) ... (8 total)
+- **bank_code**: [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md)
+- **bank_details**: [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md), [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md), [madison_folio_g_cp_efolio5991896_extracted.json](./madison_folio_g_cp_efolio5991896_extracted.json_docs.md)
+- **bank_name**: [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md)
+- **berlin**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **bic**: [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md)
+- **bnr**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **brutto**: [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md)
+
+### C
+
+- **card_entry**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **card_holder**: [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **card_information**: [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md)
+- **card_number**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md), [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md) ... (8 total)
+- **card_type**: [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md)
+- **cashier_id**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **cashier_number**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **chamber_of_commerce_number**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **charge**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md) ... (8 total)
+- **charges**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md), [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md) ... (14 total)
+- **che**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md)
+- **check_in**: [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md), [madison_folio_g_cp_efolio5991896_extracted.json](./madison_folio_g_cp_efolio5991896_extracted.json_docs.md), [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **check_in_date**: [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md)
+- **check_out**: [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md), [madison_folio_g_cp_efolio5991896_extracted.json](./madison_folio_g_cp_efolio5991896_extracted.json_docs.md), [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **check_out_date**: [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md)
+- **child**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md)
+- **children**: [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **citadines**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **city**: [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md)
+- **com**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md), [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md), [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md), [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md) ... (6 total)
+- **company**: [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md), [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md) ... (12 total)
+- **confirmation_number**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md), [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md) ... (6 total)
+- **consulting**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **contact**: [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md) ... (10 total)
+- **contract_number**: [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md)
+- **country**: [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md)
+- **court**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md), [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md) ... (6 total)
+- **credit**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md), [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md) ... (12 total)
+- **credit_card**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md)
+- **credit_card_details**: [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md), [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md), [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **credit_card_no**: [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **credit_card_number**: [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md)
+- **credit_eur**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **crew**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **currency**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+
+### D
+
+- **date**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md), [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md) ... (15 total)
+- **date_range**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **debit_eur**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **debt_related_verbiage**: [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md)
+- **den**: [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md)
+- **departure**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **departure_date**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md), [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md) ... (7 total)
+- **deposit_7_percent**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **deposit_amount**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **deposit_folio_no**: [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **deposit_information**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **der**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **des**: [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md)
+- **description**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md), [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md) ... (14 total)
+
+### E
+
+- **eine**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **einen**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **email**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md) ... (10 total)
+- **entity_information**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **erneuten**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **exklusive**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (18 total)
+- **expiry_date**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+
+### F
+
+- **fax**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md), [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md) ... (13 total)
+- **financial_information**: [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md)
+- **financial_institution**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md)
+- **fiscal_number**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **folio_no**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md)
+- **folio_no_che**: [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **folio_number**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md), [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **frankfurt**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md)
+- **frankfurtairport**: [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **freuen**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **fsb_vat_7**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md)
+
+### G
+
+- **gross_amount**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5991896_extracted.json](./madison_folio_g_cp_efolio5991896_extracted.json_docs.md), [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **gross_eur**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **guest**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **guest_charges**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **guest_information**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md) ... (17 total)
+- **guest_name**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md) ... (10 total)
+- **guest_signature**: [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **gute**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+
+### H
+
+- **hamburg**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **heute**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **hotel_information**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md) ... (17 total)
+
+### I
+
+- **iban**: [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **incl**: [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md)
+- **including**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **info**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (18 total)
+- **inkl**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison_497810_extracted.json](./madison_497810_extracted.json_docs.md), [madison_folio_g_cp_efolio5895702_extracted.json](./madison_folio_g_cp_efolio5895702_extracted.json_docs.md), [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **invoice_date**: [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md), [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **invoice_details**: [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md)
+- **invoice_information**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md) ... (17 total)
+- **invoice_number**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md) ... (12 total)
+- **issuer_information**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+
+### L
+
+- **location**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md)
+- **lossurfen**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md), [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+
+### M
+
+- **madisonhotel**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [20190202_THE MADISON HAMBURG_extracted.json](./20190202_THE MADISON HAMBURG_extracted.json_docs.md), [madison-489347_extracted.json](./madison-489347_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md) ... (18 total)
+- **managing_directors**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md) ... (7 total)
+- **merchant_details**: [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md)
+- **merchant_no**: [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **merchant_number**: [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md)
+- **mercure**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **message**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **mit**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md), [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **motel**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **moxyfrankfurtairport**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **moxyhotels**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **mwst**: [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md)
+
+### N
+
+- **name**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md) ... (17 total)
+- **net_amount**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5991896_extracted.json](./madison_folio_g_cp_efolio5991896_extracted.json_docs.md), [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **net_amount_EUR**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **net_eur**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **netto**: [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md)
+- **note**: [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md)
+- **num**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+
+### O
+
+- **offener**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md)
+- **one**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **out**: [20190119_002_extracted.json](./20190119_002_extracted.json_docs.md), [madison-5036666_extracted.json](./madison-5036666_extracted.json_docs.md), [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+
+### P
+
+- **page**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md) ... (8 total)
+- **paid**: [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md)
+- **payment**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **payment_EUR**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **payment_information**: [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md) ... (8 total)
+- **payment_method**: [madison_folio_g_cp_efolio5991896_extracted.json](./madison_folio_g_cp_efolio5991896_extracted.json_docs.md)
+- **phone**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md), [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md) ... (14 total)
+- **position**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **postal_code**: [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md)
+- **price_EUR**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+
+### R
+
+- **rate**: [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md)
+- **rate_plan**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **receipt_no**: [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **receipt_number**: [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md), [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md) ... (7 total)
+- **ref_no**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **registered_office**: [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **registration**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md) ... (7 total)
+- **related**: [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **reservation_number**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **room**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **room_charges**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md)
+- **room_no**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **room_number**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md), [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md) ... (14 total)
+- **room_rate**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+
+### S
+
+- **saldo**: [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md)
+- **schon**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **service**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **signature**: [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **stay_information**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md), [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **street**: [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md)
+- **summary**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md), [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md)
+- **swift_code**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+
+### T
+
+- **tax_amount**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5991896_extracted.json](./madison_folio_g_cp_efolio5991896_extracted.json_docs.md), [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **tax_details**: [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md)
+- **tax_information**: [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5991896_extracted.json](./madison_folio_g_cp_efolio5991896_extracted.json_docs.md)
+- **tax_number**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md), [madison_folio_g_cp_efolio5991896_extracted.json](./madison_folio_g_cp_efolio5991896_extracted.json_docs.md)
+- **tax_office**: [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5991896_extracted.json](./madison_folio_g_cp_efolio5991896_extracted.json_docs.md)
+- **tax_summary**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **taxes**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **terminal_id**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md) ... (9 total)
+- **thank_you_note**: [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **tiergarten**: [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md)
+- **total**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md) ... (9 total)
+- **total_amount**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md), [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md)
+- **total_brutto**: [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md)
+- **total_charges**: [20190202_THE MADISON HAMBURG_001_extracted.json](./20190202_THE MADISON HAMBURG_001_extracted.json_docs.md), [madison-490057_extracted.json](./madison-490057_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md)
+- **total_gross**: [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md)
+- **total_gross_amount**: [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md)
+- **total_gross_eur**: [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md)
+- **total_incl_vat**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **total_mwst**: [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md)
+- **total_net**: [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md)
+- **total_net_amount**: [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md)
+- **total_net_eur**: [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md)
+- **total_netto**: [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md)
+- **total_vat**: [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md)
+- **total_vat_eur**: [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md)
+- **totals**: [madison_folio_g_cp_efolio5991896_extracted.json](./madison_folio_g_cp_efolio5991896_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **trade_receivable_net_19**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **trade_receivable_net_7**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **trade_receivables_incl_VAT**: [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **trade_receivables_incl_vat**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md)
+- **transaction_amount**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md), [madison_folio_g_cp_efolio5976009_extracted.json](./madison_folio_g_cp_efolio5976009_extracted.json_docs.md), [madison_folio_g_cp_efolio5991896_extracted.json](./madison_folio_g_cp_efolio5991896_extracted.json_docs.md) ... (7 total)
+- **transaction_id**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **transaction_number**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md)
+
+### U
+
+- **und**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md), [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md), [motelone_20191118_extracted.json](./motelone_20191118_extracted.json_docs.md)
+- **uns**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **unserem**: [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+- **user_id**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md) ... (8 total)
+
+### V
+
+- **vat**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **vat_19**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md)
+- **vat_7_percent**: [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **vat_amount**: [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md)
+- **vat_at_19**: [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md)
+- **vat_at_7**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md)
+- **vat_details**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **vat_eur**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **vat_id_number**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **vat_invoice**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_24361_extracted.json](./hampton_24361_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **vat_number**: [hampton-25789_extracted.json](./hampton-25789_extracted.json_docs.md), [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **verbiage**: [hampton_20190411_extracted.json](./hampton_20190411_extracted.json_docs.md)
+- **verification**: [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+- **verification_number**: [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md)
+- **vom**: [motelone_20191111_extracted.json](./motelone_20191111_extracted.json_docs.md)
+- **von**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md), [mercure-37816396_extracted.json](./mercure-37816396_extracted.json_docs.md)
+
+### W
+
+- **webpage**: [hampton_28646_extracted.json](./hampton_28646_extracted.json_docs.md)
+- **website**: [madison-492602_extracted.json](./madison-492602_extracted.json_docs.md), [madison-502875_extracted.json](./madison-502875_extracted.json_docs.md), [madison_folio_g_cp_efolio5895707_extracted.json](./madison_folio_g_cp_efolio5895707_extracted.json_docs.md), [madison_folio_g_cp_efolio5945547_extracted.json](./madison_folio_g_cp_efolio5945547_extracted.json_docs.md), [madison_folio_g_cp_efolio5972171_extracted.json](./madison_folio_g_cp_efolio5972171_extracted.json_docs.md) ... (10 total)
+- **www**: [citadines-20190331_Invoice_extracted.json](./citadines-20190331_Invoice_extracted.json_docs.md), [citadines_08372561_extracted.json](./citadines_08372561_extracted.json_docs.md), [motelone-524544306_extracted.json](./motelone-524544306_extracted.json_docs.md), [moxy-20191221_007_extracted.json](./moxy-20191221_007_extracted.json_docs.md), [moxy_20191221_006_extracted.json](./moxy_20191221_006_extracted.json_docs.md)
+
+
+---
+*Auto-generated keyword aggregation*

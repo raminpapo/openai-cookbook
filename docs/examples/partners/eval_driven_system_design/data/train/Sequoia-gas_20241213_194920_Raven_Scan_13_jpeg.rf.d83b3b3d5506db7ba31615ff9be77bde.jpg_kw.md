@@ -1,0 +1,3 @@
+# Keywords: Sequoia-gas_20241213_194920_Raven_Scan_13_jpeg.rf.d83b3b3d5506db7ba31615ff9be77bde.jpg
+
+*Binary file - no keywords extracted*
